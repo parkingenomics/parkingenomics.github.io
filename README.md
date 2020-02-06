@@ -1,7 +1,7 @@
 # ParkinGenomics.github.io
 ====================
 
-This website was built using the Fraser Lab [website](http://fraserlab.com/) as a template.  James Fraser's website is open-source and available on [Github](https://github.com/fraser-lab/fraser-lab.github.io)
+This website was originally built using the Fraser Lab [website](http://fraserlab.com/) as a template.  James Fraser's website is open-source and available on [Github](https://github.com/fraser-lab/fraser-lab.github.io). Forked from Zunder lab [website](http://zunderlab.com).
 
 
 Technologies this website uses:  

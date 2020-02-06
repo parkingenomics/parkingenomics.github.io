@@ -1,7 +1,7 @@
-name: "Zunder Lab @ UVa"
-description: "This is the official web page for the Eli Zunder Lab at UVa."
+name: "Isobel Parkin Lab "
+description: "Park in the official web page for the Idobel Parkin Lab at AAFC, saskatoon."
 
-url: "http://zunderlab.com"
+url: "http://parkingenomics.githhub.io"
 
 paginate: 5
 paginate_path: "news/page:num"

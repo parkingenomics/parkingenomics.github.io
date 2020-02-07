@@ -46,5 +46,5 @@ Department of Agricultre and Bioresources<br>
 # Directions to the Isobel Parkin Lab
 
 <div class="google-maps">
-	<iframe src="https://goo.gl/maps/2qVNzjtnkJi65Mnm9" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2194.685784164216!2d-106.63512913046772!3d52.13425102060814!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc1a21b15f1e01f2a!2sSaskatoon%20Research%20and%20Development%20Centre!5e0!3m2!1sen!2sca!4v1581082516355!5m2!1sen!2sca" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 </div>

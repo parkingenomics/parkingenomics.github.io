@@ -6,8 +6,12 @@ group: research
 
 
 ## Current Projects:
-## Genomics, genetics and bioinformatics platforms
-## Functional genomics of stress resistance in plants
+Genomics, genetics and bioinformatics platforms
+Functional genomics of stress resistance in plants
+
+
+
+
 
 
 ## Research in the Zunder lab is focused on discovering the mechanisms that control stem cell fate.

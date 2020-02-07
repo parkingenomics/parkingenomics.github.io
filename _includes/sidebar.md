@@ -3,11 +3,11 @@ title: Contact
 ---
 
 
-### Contact the Zunder Lab
+### Contact the Isobel Parkin Lab
 
-Eli Zunder, Ph.D.
-Assistant Professor
-Department of Biomedical Engineering
-University of Virginia
+Isobel Parkin Ph.D.
+Research Scientist  
+Agriculture and Agri-Food Canada, 
+Saskatoon, SK, S7N OX2
 
-email: eli.zunder (#!) virginia.edu
+email: isobel.parkin (#!) canada.ca

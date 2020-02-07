@@ -32,9 +32,10 @@ group: contact
 <div class="row">
 
 <div class="col-md-4">
-
+Adjunct Professor<br>
 University of Saskatchewan<br>
 Department of Agricultre and Bioresources<br>
+
 
 </div>
 
@@ -45,5 +46,5 @@ Department of Agricultre and Bioresources<br>
 # Directions to the Isobel Parkin Lab
 
 <div class="google-maps">
-	<iframe src="https://www.google.com/maps/place/Saskatoon+Research+and+Development+Centre/@52.1339442,-106.6347101,17.85z/data=!4m5!3m4!1s0x0:0xc1a21b15f1e01f2a!8m2!3d52.1336115!4d-106.6352387" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+	<iframe src="https://goo.gl/maps/2qVNzjtnkJi65Mnm9" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>

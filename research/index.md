@@ -6,7 +6,7 @@ group: research
 
 
 ## Current Projects:
-Genomics, genetics and bioinformatics platforms
+Genomics, genetics and bioinformatics platforms <br>
 Functional genomics of stress resistance in plants
 
 

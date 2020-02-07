@@ -10,5 +10,5 @@ We are part of the [Agriculture and Agri-Food Canada, Saskatoon Research and dev
 
 Research in our laboratory is focused on genomomics and bioinformatics and molecular biology of Brassica and related genomes. We work on various aspects on plant genomics including basic understanfing of genome to evolutionary aspects. Our goal is to apply various these knowledge to better understand basic phenomina, improve the crop perfromace and evolution.
 
-To coomblish this
+To accomblish this
 we seek to identify factors that control the progression and branch points of cellular differentiation. To accomplish this, we are building experimental and computational tools that track cell populations as they change over time, using molecular characterization at the single-cell level. Our goal is to define the fundamental principles of stem cell differentiation, and apply this knowledge to the development of regenerative transplantation therapies.

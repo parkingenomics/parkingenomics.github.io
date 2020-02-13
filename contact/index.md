@@ -33,8 +33,8 @@ group: contact
 
 <div class="col-md-4">
 Adjunct Professor<br>
+Department of Plant Sciences<br>
 University of Saskatchewan<br>
-Department of Agricultre and Bioresources<br>
 
 
 </div>

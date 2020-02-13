@@ -1,5 +1,5 @@
 ---
-title: Grid Joins the Lab!
+title: GridION Joins the Lab!
 author: Sampath perumal
 layout: post
 group: news

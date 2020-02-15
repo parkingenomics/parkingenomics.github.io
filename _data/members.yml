@@ -18,39 +18,39 @@
 - name: Lily Tang
   position: Lab Technician
   email: lily.tang2@canada.ca
-  description: " Expertized in Interspecific hybridization on Brassica"
+  description: "Expertized in Interspecific hybridization on Brassica"
   
 - name: Rong Xiao
   position: Lab Technician
   email: rong.xiao@canada.ca
-  description: " RNA biology"
+  description: "RNA biology"
   
 
 - name: Brian James
   image: /static/img/members/Brian.jpg
   position: Researcher
   email: brian.james4@canada.ca
-  description: " Brain....."
+  description: "Brain....."
   
 
 - name: Edis Dzananovic 
   image: /static/img/members/Adrian-profile.png
   position: Biologist
-  scholar: ""
+  scholar: "xxx"
   email: edis.dzananovic@canada.ca
   twitter: 
 
-  description: " CRISPR genomist"
+  description: "CRISPR genomist"
   
   
 - name: Adrian Cabral 
   image: /static/img/members/Adrian-profile.png
   position: Biologist
-  scholar: ""
+  scholar: "xxx"
   email: adrian.cabral@canada.ca 
   twitter: 
 
-  description: " Phenome and genome of roots"
+  description: "Phenome and genome of roots"
 
 - name: Yogendra Khedikar
   image: /static/img/members/Yogi-profile.png

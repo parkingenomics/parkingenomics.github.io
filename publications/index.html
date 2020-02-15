@@ -7,12 +7,12 @@ group: publications
 
 <div class="bigspacer"></div>
 
-<div class='col-md-12 smallhead'>For a full list of publications from the Springer lab please visit <a href="https://scholar.google.com/citations?hl=en&user=MPmUDd4AAAAJ">Google Scholar</a>.</div>
+<div class='col-md-12 smallhead'>For a full list of publications from the Parkin lab please visit <a href="https://scholar.google.com/citations?hl=en&user=MPmUDd4AAAAJ">Google Scholar</a>.</div>
 
 <div class="bigspacer"></div>
 
 <div class="list-group">
-{% for paper in site.categories.publications %}
+{% for paper in site.data.publications %}
 
   <a href="{{ paper.url }}" class="list-group-item list-group-item-action">
       <div class="row">

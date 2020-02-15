@@ -1,37 +1,92 @@
-- name: Eli Zunder
-  image: /static/img/members/zunder.jpg
+- name: Isobel Parkin
+  image: /static/img/isobel-parkin.jpg
   position: Principal Investigator
-  email: ezunder@virginia.edu
-  scholar: "wHUbRh4AAAAJ&hl"
-  twitter: "zunderlab"
-  description: "Eli received his Ph.D. in [Biophysics](http://biophysics.ucsf.edu/) from [UCSF](http://www.ucsf.edu/) in 2009. There, he worked in [Kevan Shokat's](http://shokatlab.ucsf.edu/) lab studying the role of PI3K signaling in [insulin response](/publications#16647110), [cancer](/publications#22802621), and [drug resistance](/publications#18691552).
+  email: isobel.parkin@canada.ca
+  scholar: "MPmUDd4AAAAJ"
+  twitter: "ParkinGenomics??"
+  description: "Isobel Parkin received her Ph.D. in [Biophysics](http://biophysics.ucsf.edu/) from [UCSF](http://www.ucsf.edu/) in 1996. Since 2000, Isobel began his independent career as an Research Scientist in the [Agriculture and Agri-Food Canada, Saskatoon Research and development center](http://www.agr.gc.ca/eng/scientific-collaboration-and-research-in-agriculture/agriculture-and-agri-food-research-centres-and-collections/saskatchewan/saskatoon-research-and-development-centre/scientific-staff-and-expertise/parkin-isobel-phd/?id=1181853634490)."
+
+- name: Erin Higgins
+  image: /static/img/members/erin.jpg
+  position: Technition/Lab manager/PhD candidate ....
+  email: erin.higgins@canada.ca
+  twitter:
+
+  description: "Expertized in genome sequencing and SNP dicovery. Working on decipiering genes factors repsonsible for heomelogous exchanges in canola"
 
 
-  Eli did his postdoc in [Garry Nolan's](http://web.stanford.edu/group/nolan/) lab at [Stanford University](http://www.stanford.edu/). There, he developed a [cell barcoding method](/publications#25612231) for [mass cytometry](https://www.fluidigm.com/products/cytof) that he used to study [kinase inhibitor specificity across the human immune system](/publications#22902532), developed a graph-based mapping algorithm to [track iPS cell reprogramming](/publications#25748935) and [identify early reprogramming intermediates](/publications#25830878), and applied these generalizable methods to map [AML patient samples by prognosis](/publications#26095251) and [organism-level organization of the mouse immune system](/publications#26160952).
+- name: Lily Tang
+  position: Lab Technician
+  email: lily.tang2@canada.ca
+  description: " Expertized in Interspecific hybridization on Brassica"
+  
+- name: Rong Xiao
+  position: Lab Technician
+  email: rong.xiao@canada.ca
+  description: " RNA biology"
+  
 
+- name: Brian James
+  image: /static/img/members/Brian.jpg
+  position: Researcher
+  email: brian.james4@canada.ca
+  description: " Brain....."
+  
 
-  In January 2016, Eli began his independent career as an Assistant Professor in the [Department of Biomedical Engineering](http://bme.virginia.edu/) at the [University of Virginia](http://www.virginia.edu/)."
+- name: Edis Dzananovic 
+  image: /static/img/members/Adrian-profile.png
+  position: Biologist
+  scholar: ""
+  email: edis.dzananovic@canada.ca
+  twitter: 
 
-- name: Kristen Fread
-  image: /static/img/members/fread.jpg
-  position: Graduate Student
-  email: kif5qw@virginia.edu
-  description: "Kristen is from Accomac, Virginia, a small town on the Eastern Shore of Virginia. She completed her undergraduate education at Virginia Tech and received a BS in Biochemistry with minors in Chemistry and Spanish. Now, she is a part of the Biomedical Engineering program at UVA pursuing a Ph.D. in the Zunder Lab. Her research focuses on studying stem cell differentiation and cell fate decisions."
-
-
-- name: Corey Williams
-  image: /static/img/members/williams.jpg
-  position: Graduate Student
-  email: cmw6pa@virginia.edu
-  description: "Corey, originally from Allentown, Pennsylvania, is a Biomedical Engineering PhD student at UVA. He attended the University of Pittsburgh, earning a BS in Bioengineering and a minor in Chemistry. His research focuses on in vitro cardiomyocyte differentiation and its relation to embryonic heart development."
+  description: " CRISPR genomist"
   
   
-- name: Amy Van Deusen
-  position: Graduate Student
-  email: alv5b@virginia.edu
+- name: Adrian Cabral 
+  image: /static/img/members/Adrian-profile.png
+  position: Biologist
+  scholar: ""
+  email: adrian.cabral@canada.ca 
+  twitter: 
+
+  description: " Phenome and genome of roots"
+
+- name: Yogendra Khedikar
+  image: /static/img/members/Yogi-profile.png
+  position: Biologist
+  scholar: 
+  email: yogendra.khedikar@canada.ca
+  twitter: 
+
+  description: " Expertized in Interspecific hybridization on Brassica"
+
+
+- name: Jana Ebersbach
+  image: /static/img/members/Yogi-profile.png
+  position: Biologist
+  scholar: CQApJrsAAAAJ&hl
+  email: jana.ebersbach@canada.ca
+  twitter:
   
-- name: Sarah Goggin
-  image: /static/img/members/SMG_Broad-Headshot_crop.jpg
-  position: Graduate Student
-  email: sg4dm@virginia.edu
-  twitter: Sarah_M_Goggin
+    description: "Evolutionary biologist"
+
+
+- name: Sampath Perumal
+  image: /static/img/members/sampath-profile.png
+  position: Post-Doc Researcher
+  scholar: "JOuANlIAAAAJ&hl"
+  email: sampath.perumal@canada.ca
+  twitter: bioteksampath
+
+  description: "He has experties in Genomics and bioinformatics. He has interst in transposons and find more about him from his website samxgenomics.github,io "
+
+
+
+- name: Raju Chaudary
+  position: PhD candidate
+  email: Raju.chaudary@canada.ca
+  
+    description: " Working on camilena genomics nad inter-specific hybridization"
+
+<!--- co-op students, casuals , Alumini --->

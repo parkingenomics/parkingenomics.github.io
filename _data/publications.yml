@@ -1,31 +1,5 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
-- citation: 'Melissa E. Ko\*, **Corey M. Williams\***, **Kristen I. Fread**, **Sarah M. Goggin**, **Rohit S. Rustagi**, Gabriela K. Fragiadakis, Garry P. Nolan & **Eli R. Zunder**. FLOW-MAP: a graph-based, force-directed layout algorithm for trajectory mapping in single-cell time course datasets. *Nature Protocols*. 2020. \*contributed equally'
-  date: 202001
-  image: '/static/img/pub/ko_williams_np_2020.jpg'
-  pdf: '/static/pdf/Ko Williams 2020 Nature Protocols.pdf'
-  links:
-    - name: "FLOW-MAP: a graph-based, force-directed layout algorithm for trajectory mapping in single-cell time course datasets"
-      url: 'https://www.nature.com/articles/s41596-019-0246-3'
-    - name: "FLOW-MAP code and GUI"
-      url: 'https://github.com/zunderlab/FLOWMAP'
-
-
-  links:
-    - name: "Shokat Lab"
-      url: 'http://shokatlab.ucsf.edu/'
-    - name: "Williams Lab"
-      url: 'http://www.mrc-lmb.cam.ac.uk/rlw/text/rlw_homepage/Home.html'
-    - name: "Weiss Lab"
-      url: 'http://waweisslab.ucsf.edu/'
-    - name: "Balla Lab"
-      url: 'https://www.nichd.nih.gov/about/org/dir/pdn/balla/Pages/overview.aspx'
-    - name: "Stokoe Lab"
-      url: 'http://www.gene.com/scientists/our-scientists/david-stokoe'
-    - name: "Loewith Lab"
-      url: 'http://www.molbio.unige.ch/eng/research_groups/loewith/lab'
-    - name: "Cell: Using isoform-specific inhibitors to target lipid kinases"
-      url: 'http://www.sciencedirect.com/science/article/pii/S0092867406005745'
-    - name: "HHMI: Chemical Biology Suggests New Way to Thwart Brain Cancer"
-      url: 'http://www.hhmi.org/news/chemical-biology-suggests-new-way-thwart-brain-cancer'
-    - name: "Faculty of 1000 Evaluation"
-      url: 'http://f1000.com/prime/1032226'
+- citation: '**Raju Chaudhary**, Chu Shin Koh, Sateesh Kagale, **Lily Tang**, **Siu Wah Wu**, Zhenling Lv, Annaliese S Mason, Andrew G Sharpe, Axel Diederichsen, **Isobel AP Parkin\***. Assessing Diversity in the Camelina Genus Provides Insights into the Genome Structure of Camelina sativa. *G3: Genes, Genomes, Genetics*, 2020.'
+  date: 202002
+  image: '/static/img/pub/202002_RD_1.jpg'
+  pdf: '/static/pdf/202002_Raju_camelinaDiversity.full.pdf'

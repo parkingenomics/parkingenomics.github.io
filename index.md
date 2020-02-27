@@ -16,3 +16,4 @@ Brassica genomics, comparative genome organisation, global variantion and gene e
 Current research funding sources include the [Global Institute for Food Security (GIFS)](https://www.gifs.ca/), Saskatchewan Agriculture Development Fund, AAFC Crop Genomics Initiative, and canola producer groups.
 
 ## Register for [BRASSICA 2020](cruciferseq.ca/Brassica2020/index.php)
+The 22nd International Crucifer Genetics Conference - Brassica 2020 will be held in Saskatoon, Saskatchewan, Canada from September 27-30, 2020

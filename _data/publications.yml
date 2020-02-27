@@ -12,3 +12,14 @@
     - name: "JBrowse website"
       url: 'http://cruciferseq.ca/'
 
+- citation: 'Chaudhary R, Koh CS, Kagale S, Tang L, Wu SW, Lv Z, Mason AS, Sharpe AG, Diederichsen A, **Parkin IAP**. Assessing Diversity in the Camelina Genus Provides Insights into the Genome Structure of Camelina sativa. *G3: Genes, Genomes, Genetics*. 2020.'
+  date: 20200213
+  image: '/static/img/pub/202002_RD_1.png'
+  pmid: 522
+  pdf: '/static/pdf/Levine 2015 Cell.pdf'
+  
+  links:
+    - name: "For Supplemental materials"
+      url: 'https://www.biorxiv.org/content/10.1101/2020.02.03.932665v1'
+    - name: "JBrowse website"
+      url: 'http://cruciferseq.ca/'

@@ -5,6 +5,6 @@
   image: '/static/img/pub/202002_RD_1.png'
   pdf: '/static/pdf/202002_Raju_camelinaDiversity.full.pdf'
   links:
-   - name: "For Supplemental materials"
+   - name:"For Supplemental materials"
       url: 'https://doi.org/10.25387/g3.11299280'
    

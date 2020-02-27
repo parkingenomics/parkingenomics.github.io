@@ -5,15 +5,25 @@
   date: 20200213
   image: '/static/img/pub/202002_RD_1.png'
   pdf: '/static/pdf/202002_Raju_camelinaDiversity.full.pdf'
+   links:
+   - name: "For Supplemental materials"
+      url: 'https://doi.org/10.25387/g3.11299280'
 
 - citation: 'Sampath Perumal, Chu Shin Koh, Lingling Jin, Miles Buchwaldt, Erin Higgins, David Sankoff, Stephen J. Robinson, Sateesh Kagale, Zahra-Katy Navabi, Lily Tang, Kyla N. Horner, Zhesi He, Ian Bancroft, Boulos Chalhoub, Andrew G Sharpe, Isobel AP Parkin. High contiguity long read assembly of Brassica nigra allows localization of active centromeres and provides insights into the ancestral Brassica genome. bioRxiv,2020'
-date: 20200204
+  date: 20200204
   image: '/static/img/pub/pub62_1.png'
   pdf: '/static/pdf/pub_62_full.pdf'
-
+  
+  links:
+   - name: "For Supplemental materials"
+      url: 'https://doi.org/'
+    - name: "JBrowse website"
+      url: 'http://cruciferseq.ca/' 
+      
+      
 ##2020
 - citation: ' Chaudhary R, Koh CS, Kagale S, Tang L, Wu SW, Lv Z, Mason AS, Sharpe AG, Diederichsen A, Parkin IAP. Assessing Diversity in the Camelina Genus Provides Insights into the Genome Structure of Camelina sativa. G3,2020' date: 20200213
- date: 20200213
+  date: 20200213
   image: '/static/img/pub/Isobel_pub_63.png'
   pdf: '/static/pdf/pub_63.pdf'
 - citation: 'Sampath Perumal, Chu Shin Koh, Lingling Jin, Miles Buchwaldt, Erin Higgins, David Sankoff, Stephen J. Robinson, Sateesh Kagale, Zahra-Katy Navabi, Lily Tang, Kyla N. Horner, Zhesi He, Ian Bancroft, Boulos Chalhoub, Andrew G Sharpe, Isobel AP Parkin. High contiguity long read assembly of Brassica nigra allows localization of active centromeres and provides insights into the ancestral Brassica genome. bioRxiv,2020' date: 20200204
@@ -23,7 +33,7 @@ date: 20200204
 
 ##2019
 - citation: ' Chang A, Lamara M, Wei Y, Hu H, Parkin IAP, Gossen BD, Peng G, Yu F. Clubroot resistance gene Rcr6 in Brassica nigra resides in a genomic region homologous to chromosome A08 in B.rapa. BMC plant biology, 2019;19(1):224' date: 20190531
- date: 20190531
+  date: 20190531
   image: '/static/img/pub/Isobel_pub_61.png'
   pdf: '/static/pdf/pub_61.pdf'
 - citation: ' Cram D, Kulkarni M, Buchwaldt M, Rajagopalan N, Bhowmik P, Rozwadowski K, Parkin IAP, Sharpe AG, Kagale S. WheatCRISPR: a web-based guide RNA design tool for CRISPR/Cas9-mediated genome editing in wheat. BMC plant biology, 2019;19(1):474' date: 20191107

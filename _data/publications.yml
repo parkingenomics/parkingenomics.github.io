@@ -1,12 +1,10 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 
-- citation: 'Melissa E. Ko\*, **Corey M. Williams\***, **Kristen I. Fread**, **Sarah M. Goggin**, **Rohit S. Rustagi**, Gabriela K. Fragiadakis, Garry P. Nolan & **Eli R. Zunder**. FLOW-MAP: a graph-based, force-directed layout algorithm for trajectory mapping in single-cell time course datasets. *Nature Protocols*. 2020. \*contributed equally'
-  date: 202001
+- citation: 'Chaudhary R, Koh CS, Kagale S, Tang L, Wu SW, Lv Z, Mason AS, Sharpe AG, Diederichsen A, **Parkin IAP**. Assessing Diversity in the Camelina Genus Provides Insights into the Genome Structure of Camelina sativa. *G3: Genes, Genomes, Genetics*. 2020.'
+  date: 20200213
   image: '/static/img/pub/202002_RD_1.png'
   pdf: '/static/pdf/202002_Raju_camelinaDiversity.full.pdf'
   links:
-    - name: "FLOW-MAP: a graph-based, force-directed layout algorithm for trajectory mapping in single-cell time course datasets"
-      url: 'https://www.nature.com/articles/s41596-019-0246-3'
-    - name: "FLOW-MAP code and GUI"
-
+   - name: "For Supplemental materials"
+      url: 'https://doi.org/10.25387/g3.11299280'
    

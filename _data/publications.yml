@@ -1,5 +1,4 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
- 
 ##2020
 - citation: ' Chaudhary R, Koh CS, Kagale S, Tang L, Wu SW, Lv Z, Mason AS, Sharpe AG, Diederichsen A, Parkin IAP. Assessing Diversity in the Camelina Genus Provides Insights into the Genome Structure of Camelina sativa. G3,2020' 
   date: 20200213
@@ -8,18 +7,3 @@
    links:
    - name: "For Supplemental materials"
       url: 'https://doi.org/10.25387/g3.11299280'
-
-- citation: 'Sampath Perumal, Chu Shin Koh, Lingling Jin, Miles Buchwaldt, Erin Higgins, David Sankoff, Stephen J. Robinson, Sateesh Kagale, Zahra-Katy Navabi, Lily Tang, Kyla N. Horner, Zhesi He, Ian Bancroft, Boulos Chalhoub, Andrew G Sharpe, Isobel AP Parkin. High contiguity long read assembly of Brassica nigra allows localization of active centromeres and provides insights into the ancestral Brassica genome. bioRxiv,2020'
-  date: 20200204
-  image: '/static/img/pub/pub62.png'
-  pdf: '/static/pdf/202002_Raju_camelinaDiversity.full.pdf'
-  
-  links:
-   - name: "For Supplemental materials"
-      url: 'https://doi.org/10.25387/g3.11299280'
-    - name: "JBrowse website"
-      url: 'http://cruciferseq.ca/' 
-      
-      
-
-

@@ -1,14 +1,14 @@
-# THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 
 
 - citation: 'Levine JH\*, Simonds EF\*, Bendall SC\*, Davis KL, Amir ED, Litvin O, Fienberg H, Jager A, Pinkus L, **Zunder ER**, Finck R, Gedman AL, Radtke I, Downing JR, Pe’er D, Nolan GP. Data-Driven Phenotypic Dissection of AML Reveals Progenitor-like Cells that Correlate with Prognosis. *Cell*. 2015.'
   date: 20200204
   image: '/static/img/pub/pub62.png'
   pmid: 522
-  pdf: '/static/pdf/Levine 2015 Cell.pdf'
+  pdf: '/static/pdf/Levinell.pdf'
   
   links:
     - name: "For Supplemental materials"
       url: 'https://www.biorxiv.org/content/10.1101/2020.02.03.932665v1'
     - name: "JBrowse website"
       url: 'http://cruciferseq.ca/'
+

@@ -23,3 +23,10 @@
       url: 'https://www.biorxiv.org/content/10.1101/2020.02.03.932665v1'
     - name: "JBrowse website"
       url: 'http://cruciferseq.ca/'
+
+
+
+- citation: ' Chang A, Lamara M, Wei Y, Hu H, Parkin IAP, Gossen BD, Peng G, Yu F. Clubroot resistance gene Rcr6 in Brassica nigra resides in a genomic region homologous to chromosome A08 in B.rapa. *BMC plant biology*. 2019'
+ date: 20190531
+  image: '/static/img/pub/Isobel_pub_61.png'
+  pdf: '/static/pdf/pub_61.pdf'

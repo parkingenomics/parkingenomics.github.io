@@ -2,23 +2,13 @@
 
 
 - citation: 'Levine JH\*, Simonds EF\*, Bendall SC\*, Davis KL, Amir ED, Litvin O, Fienberg H, Jager A, Pinkus L, **Zunder ER**, Finck R, Gedman AL, Radtke I, Downing JR, Pe’er D, Nolan GP. Data-Driven Phenotypic Dissection of AML Reveals Progenitor-like Cells that Correlate with Prognosis. *Cell*. 2015. \*contributed equally'
-
   date: 201506
-
-  image: '/static/img/pub/202002_RD_1.png'
-
+  image: '/static/img/pub/pub62.png'
   pmid: 26095251
-
   pdf: '/static/pdf/Levine 2015 Cell.pdf'
-
   cytobank_report: http://www.cytobank.org/nolanlab/reports/Levine2015.html
-
   links:
-
     - name: "Pe'er Lab"
-
       url: 'http://www.c2b2.columbia.edu/danapeerlab/html/'
-
     - name: "Nolan Lab"
-
       url: 'http://web.stanford.edu/group/nolan/'

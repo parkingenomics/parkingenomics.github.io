@@ -1,12 +1,2 @@
-#2020
-- citation: 'sampath JH\*, Simonds EF\*, Bendall SC\*, Davis KL, Amir ED, Litvin O, Fienberg H, Jager A, Pinkus L, **Zunder ER**, Finck R, Gedman AL, Radtke I, Downing JR, Pe’er D, Nolan GP. Data-Driven Phenotypic Dissection of AML Reveals Progenitor-like Cells that Correlate with Prognosis. *well*. 2015.'
- date: 20200213
- image: '/static/img/pub/pub62.png'
- pdf: '/static/pdf/pub_63.pdf'
- pmid: 32046969
- links:
-    - name: "For Supplemental materials"
-      url: 'https://www.biorxiv.org/content/10.1101/2020.02.03.932665v1'
-    - name: "JBrowse website"
-      url: 'http://cruciferseq.ca/'
+--- "-citation:'Chaudhary R, Koh CS, Kagale S, Tang L, Wu SW, Lv Z, Mason AS, Sharpe AG, Diederichsen A, **Parkin IAP**. Assessing Diversity in the Camelina Genus Provides Insights into the Genome Structure of Camelina sativa.*G3*.2020.' date:20200213 image:'/static/img/pub/Isobel_pub_63.png' pdf:'/static/pdf/pub_63.pdf' pmid:32046969 -citation:'Sampath Perumal, Chu Shin Koh, Lingling Jin, Miles Buchwaldt, Erin Higgins, David Sankoff, Stephen J. Robinson, Sateesh Kagale, Zahra-Katy Navabi, Lily Tang, Kyla N. Horner, Zhesi He, Ian Bancroft, Boulos Chalhoub, Andrew G Sharpe, **Isobel AP Parkin**. High contiguity long read assembly of Brassica nigra allows localization of active centromeres and provides insights into the ancestral Brassica genome.*bioRxiv*.2020.' date:20200204 image:'/static/img/pub/Isobel_pub_62.png' pdf:'/static/pdf/pub_62.pdf' pmid:32046969"
 

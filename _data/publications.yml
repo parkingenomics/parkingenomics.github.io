@@ -1,4 +1,3 @@
-##
 - citation: 'Levine JH\*, Simonds EF\*, Bendall SC\*, Davis KL, Amir ED, Litvin O, Fienberg H, Jager A, Pinkus L, **Zunder ER**, Finck R, Gedman AL, Radtke I, Downing JR, Pe’er D, Nolan GP. Data-Driven Phenotypic Dissection of AML Reveals Progenitor-like Cells that Correlate with Prognosis. *Cell*. 2015.'
   date: 20200204
   image: '/static/img/pub/pub62.png'
@@ -23,7 +22,4 @@
     - name: "JBrowse website"
       url: 'http://cruciferseq.ca/'
 
-- citation: 'Chang A, Lamara M, Wei Y, Hu H, Parkin IAP, Gossen BD, Peng G, Yu F. Clubroot resistance gene Rcr6 in Brassica nigra resides in a genomic region homologous to chromosome A08 in B.rapa. *BMC plant biology*. 2019'
- date: 20190531
-  image: '/static/img/pub/Isobel_pub_61.png'
-  pdf: '/static/pdf/pub_61.pdf'
+

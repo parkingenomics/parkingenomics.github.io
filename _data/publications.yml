@@ -1,15 +1,15 @@
-##2020
+#2020
 - citation: 'Chaudhary R, Koh CS, Kagale S, Tang L, Wu SW, Lv Z, Mason AS, Sharpe AG, Diederichsen A, **Parkin IAP**. Assessing Diversity in the Camelina Genus Provides Insights into the Genome Structure of Camelina sativa.*G3*.2020.'
  date: 20200213
  image: '/static/img/pub/pub62.png'
  pdf: '/static/pdf/pub_63.pdf'
  pmid: 32046969
-   links:
+ links:
     - name: "For Supplemental materials"
       url: 'https://www.biorxiv.org/content/10.1101/2020.02.03.932665v1'
     - name: "JBrowse website"
       url: 'http://cruciferseq.ca/'
-##2019
+#2019
 - citation: 'Chang A, Lamara M, Wei Y, Hu H, **Parkin IAP**, Gossen BD, Peng G, Yu F. Clubroot resistance gene Rcr6 in Brassica nigra resides in a genomic region homologous to chromosome A08 in B.rapa.*BMC plant biology*. 2019;19(1):224.'
  date: 20190531
  image: '/static/img/pub/202002_RD_1.png'

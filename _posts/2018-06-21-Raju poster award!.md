@@ -1,5 +1,5 @@
 ---
-title: Best poster award for Raju!
+title: Congratulations to Raju for his best poster award!
 author: Sampath perumal
 layout: post
 group: news

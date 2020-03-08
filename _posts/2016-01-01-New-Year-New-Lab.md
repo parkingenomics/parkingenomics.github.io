@@ -1,6 +1,6 @@
 ---
-title: New Year, New Lab!
-author: sampath perumal
+title: Welcome !
+author: sampath
 layout: post
 group: news
 ---

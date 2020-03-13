@@ -1,652 +1,623 @@
-##2020
-- citation: "Chaudhary R, Koh CS, Kagale S, Tang L, Wu SW, Lv Z, Mason AS, Sharpe AG, Diederichsen A, **Parkin IAP**. Assessing Diversity in the Camelina Genus Provides Insights into the Genome Structure of Camelina sativa.*G3*.2020."
+--- 
+- 
+  citation: "Chaudhary R, Koh CS, Kagale S, Tang L, Wu SW, Lv Z, Mason AS, Sharpe AG, Diederichsen A, **Parkin IAP**. Assessing Diversity in the Camelina Genus Provides Insights into the Genome Structure of Camelina sativa.*G3*.2020."
   date: 20200213
+  image: /static/img/pub/202002_RD_1.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: "https://doi.org/10.25387/g3.11299280"
+  pdf: "/static/pdf/63.Chaudhary-2020-Assessing Diversity in the Came.pdf"
   pmid: 32046969
-  image: '/static/img/pub/202002_RD_1.png'
-  pdf: '/static/pdf/63.Chaudhary-2020-Assessing Diversity in the Came.pdf'
-  
-  links:
-    - name: "For Supplemental materials"
-      url: 'https://doi.org/10.25387/g3.11299280'
-  
-- citation: "Sampath Perumal, Chu Shin Koh, Lingling Jin, Miles Buchwaldt, Erin Higgins, David Sankoff, Stephen J. Robinson, Sateesh Kagale, Zahra-Katy Navabi, Lily Tang, Kyla N. Horner, Zhesi He, Ian Bancroft, Boulos Chalhoub, Andrew G Sharpe, **Isobel AP Parkin**. High contiguity long read assembly of Brassica nigra allows localization of active centromeres and provides insights into the ancestral Brassica genome.*bioRxiv*.2020."
+- 
+  citation: "Sampath Perumal, Chu Shin Koh, Lingling Jin, Miles Buchwaldt, Erin Higgins, David Sankoff, Stephen J. Robinson, Sateesh Kagale, Zahra-Katy Navabi, Lily Tang, Kyla N. Horner, Zhesi He, Ian Bancroft, Boulos Chalhoub, Andrew G Sharpe, **Isobel AP Parkin**. High contiguity long read assembly of Brassica nigra allows localization of active centromeres and provides insights into the ancestral Brassica genome.*bioRxiv*.2020."
   date: 20200204
-  image: '/static/img/pub/pub62.png'
-  pdf: '/static/pdf/62.Perumal-2020-High contiguity long read assembl.pdf'
-  
-  links:
-    - name: "For Supplemental materials"
-      url: 'https://www.biorxiv.org/content/10.1101/2020.02.03.932665v1'
-    - name: "JBrowse website"
-      url: 'http://cruciferseq.ca/'
-  pmid:
-##2019
-- citation: "Chang A, Lamara M, Wei Y, Hu H, **Parkin IAP**, Gossen BD, Peng G, Yu F. Clubroot resistance gene Rcr6 in Brassica nigra resides in a genomic region homologous to chromosome A08 in B.rapa.*BMC plant biology*. 2019;19(1):224."
+  image: /static/img/pub/pub62.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: "https://www.biorxiv.org/content/10.1101/2020.02.03.932665v1"
+    - 
+      name: "JBrowse website"
+      url: "http://cruciferseq.ca/"
+  pdf: "/static/pdf/62.Perumal-2020-High contiguity long read assembl.pdf"
+  pmid: ~
+- 
+  citation: "Chang A, Lamara M, Wei Y, Hu H, **Parkin IAP**, Gossen BD, Peng G, Yu F. Clubroot resistance gene Rcr6 in Brassica nigra resides in a genomic region homologous to chromosome A08 in B.rapa.*BMC plant biology*. 2019;19(1):224."
   date: 20190531
-  image: '/static/img/pub/Isobel_pub_61.png'
-  pdf: '/static/pdf/61.Chang-2019-Clubroot resistance gene Rcr6 in Br.pdf'
+  image: /static/img/pub/Isobel_pub_61.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/61.Chang-2019-Clubroot resistance gene Rcr6 in Br.pdf"
   pmid: 31142280
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Cram D, Kulkarni M, Buchwaldt M, Rajagopalan N, Bhowmik P, Rozwadowski K, **Parkin IAP**, Sharpe AG, Kagale S. WheatCRISPR: a web-based guide RNA design tool for CRISPR/Cas9-mediated genome editing in wheat.*BMC plant biology*. 2019;19(1):474."
+- 
+  citation: "Cram D, Kulkarni M, Buchwaldt M, Rajagopalan N, Bhowmik P, Rozwadowski K, **Parkin IAP**, Sharpe AG, Kagale S. WheatCRISPR: a web-based guide RNA design tool for CRISPR/Cas9-mediated genome editing in wheat.*BMC plant biology*. 2019;19(1):474."
   date: 20191107
-  image: '/static/img/pub/Isobel_pub_60.png'
-  pdf: '/static/pdf/60.Cram-2019-WheatCRISPR_ a web-based guide RNA d.pdf'
+  image: /static/img/pub/Isobel_pub_60.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/60.Cram-2019-WheatCRISPR_ a web-based guide RNA d.pdf"
   pmid: 31694550
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Desta ZA, Kolano B, Shamim Z, Armstrong SJ, Rewers M, Sliwinska E, Kushwaha SK, **Parkin IAP**, Ortiz R, de Koning DJ. Field cress genome mapping: Integrating linkage and comparative maps with cytogenetic analysis for rDNA carrying chromosomes.*Scientific reports*. 2019;9(1):17028."
+- 
+  citation: "Desta ZA, Kolano B, Shamim Z, Armstrong SJ, Rewers M, Sliwinska E, Kushwaha SK, **Parkin IAP**, Ortiz R, de Koning DJ. Field cress genome mapping: Integrating linkage and comparative maps with cytogenetic analysis for rDNA carrying chromosomes.*Scientific reports*. 2019;9(1):17028."
   date: 20191121
-  image: '/static/img/pub/Isobel_pub_59.png'
-  pdf: '/static/pdf/59.Desta-2019-Field cress genome mapping_ Integra.pdf'
+  image: /static/img/pub/Isobel_pub_59.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/59.Desta-2019-Field cress genome mapping_ Integra.pdf"
   pmid: 31745130
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Gabur I, Chawla HS, Snowdon RJ, **Parkin IAP**. Connecting genome structural variation with complex traits in crop plants.*TAG Theoretical and applied genetics*. 2019;132(3):733-50."
+- 
+  citation: "Gabur I, Chawla HS, Snowdon RJ, **Parkin IAP**. Connecting genome structural variation with complex traits in crop plants.*TAG Theoretical and applied genetics*. 2019;132(3):733-50."
   date: 20181119
-  image: '/static/img/pub/Isobel_pub_58.png'
-  pdf: '/static/pdf/58.Gabur-2019-Connecting genome structural variat.pdf'
+  image: /static/img/pub/Isobel_pub_58.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/58.Gabur-2019-Connecting genome structural variat.pdf"
   pmid: 30448864
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Horvath D, Anderson JV, Chao WS, Zheng P, Buchwaldt M, **Parkin IAP**, Dorn K. Genes associated with chloroplasts and hormone-signaling, and transcription factors other than CBFs are associated with differential survival after low temperature treatments of Camelina sativa biotypes.*PloS one*. 2019;14(5):e0217692."
+- 
+  citation: "Horvath D, Anderson JV, Chao WS, Zheng P, Buchwaldt M, **Parkin IAP**, Dorn K. Genes associated with chloroplasts and hormone-signaling, and transcription factors other than CBFs are associated with differential survival after low temperature treatments of Camelina sativa biotypes.*PloS one*. 2019;14(5):e0217692."
   date: 20190601
-  image: '/static/img/pub/Isobel_pub_57.png'
-  pdf: '/static/pdf/57.Horvath-2019-Genes associated with chloroplast.pdf'
+  image: /static/img/pub/Isobel_pub_57.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/57.Horvath-2019-Genes associated with chloroplast.pdf"
   pmid: 31150478
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Taye ZM, Helgason BL, Bell JK, Norris CE, Vail S, Robinson SJ, **Parkin IAP**, Arcand M, Mamet S, Links MG, Dowhy T, Siciliano S, Lamb EG. Core and Differentially Abundant Bacterial Taxa in the Rhizosphere of Field Grown Brassica napus Genotypes: Implications for Canola Breeding.*Front Microbiol*. 2019;10:3007."
+- 
+  citation: "Taye ZM, Helgason BL, Bell JK, Norris CE, Vail S, Robinson SJ, **Parkin IAP**, Arcand M, Mamet S, Links MG, Dowhy T, Siciliano S, Lamb EG. Core and Differentially Abundant Bacterial Taxa in the Rhizosphere of Field Grown Brassica napus Genotypes: Implications for Canola Breeding.*Front Microbiol*. 2019;10:3007."
   date: 20200206
-  image: '/static/img/pub/Isobel_pub_56.png'
-  pdf: '/static/pdf/56.Taye-2019-Core and Differentially Abundant Bac.pdf'
+  image: /static/img/pub/Isobel_pub_56.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/56.Taye-2019-Core and Differentially Abundant Bac.pdf"
   pmid: 32010086
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-##2018
-- citation: "Higgins EE, Clarke WE, Howell EC, Armstrong SJ, **Parkin IAP**. Detecting de Novo Homoeologous Recombination Events in Cultivated Brassica napus Using a Genome-Wide SNP Array.*G3*. 2018;8(8):2673-83."
+- 
+  citation: "Higgins EE, Clarke WE, Howell EC, Armstrong SJ, **Parkin IAP**. Detecting de Novo Homoeologous Recombination Events in Cultivated Brassica napus Using a Genome-Wide SNP Array.*G3*. 2018;8(8):2673-83."
   date: 20180617
-  image: '/static/img/pub/Isobel_pub_55.png'
-  pdf: '/static/pdf/55.Higgins-2018-Detecting de Novo Homoeologous Re.pdf'
+  image: /static/img/pub/Isobel_pub_55.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/55.Higgins-2018-Detecting de Novo Homoeologous Re.pdf"
   pmid: 29907649
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Hurgobin B, Golicz AA, Bayer PE, Chan CK, Tirnaz S, Dolatabadian A, Schiessl SV, Samans B, Montenegro JD, **Parkin IAP**, Pires JC, Chalhoub B, King GJ, Snowdon R, Batley J, Edwards D. Homoeologous exchange is a major cause of gene presence/absence variation in the amphidiploid Brassica napus.*Plant biotechnology journal*. 2018;16(7):1265-74."
+- 
+  citation: "Hurgobin B, Golicz AA, Bayer PE, Chan CK, Tirnaz S, Dolatabadian A, Schiessl SV, Samans B, Montenegro JD, **Parkin IAP**, Pires JC, Chalhoub B, King GJ, Snowdon R, Batley J, Edwards D. Homoeologous exchange is a major cause of gene presence/absence variation in the amphidiploid Brassica napus.*Plant biotechnology journal*. 2018;16(7):1265-74."
   date: 20171206
-  image: '/static/img/pub/Isobel_pub_54.png'
-  pdf: '/static/pdf/54.Hurgobin-2018-Homoeologous exchange is a major.pdf'
+  image: /static/img/pub/Isobel_pub_54.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/54.Hurgobin-2018-Homoeologous exchange is a major.pdf"
   pmid: 29205771
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Kim CK, Seol YJ, Perumal S, Lee J, Waminal NE, Jayakodi M, Lee SC, Jin S, Choi BS, Yu Y, Ko HC, Choi JW, Ryu KY, Sohn SH, **Parkin IAP**, Yang TJ. Re-exploration of U's Triangle Brassica Species Based on Chloroplast Genomes and 45S nrDNA Sequences.*Scientific reports*. 2018;8(1):7353."
-  date: 20180511
-  image: '/static/img/pub/Isobel_pub_53.png'
-  pdf: '/static/pdf/53.Kim-2018-Re-exploration of U's Triangle Brassi.pdf'
-  pmid: 29743507
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-##2017
-- citation: "He Z, Wang L, Harper AL, Havlickova L, Pradhan AK, **Parkin IAP**, Bancroft I. Extensive homoeologous genome exchanges in allopolyploid crops revealed by mRNAseq-based visualization.*Plant biotechnology journal*. 2017;15(5):594-604."
+- 
+  citation: "He Z, Wang L, Harper AL, Havlickova L, Pradhan AK, **Parkin IAP**, Bancroft I. Extensive homoeologous genome exchanges in allopolyploid crops revealed by mRNAseq-based visualization.*Plant biotechnology journal*. 2017;15(5):594-604."
   date: 20161104
-  image: '/static/img/pub/Isobel_pub_52.png'
-  pdf: '/static/pdf/52.He-2017-Extensive homoeologous genome exchange.pdf'
+  image: /static/img/pub/Isobel_pub_52.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/52.He-2017-Extensive homoeologous genome exchange.pdf"
   pmid: 27808473
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Mason AS, Higgins EE, Snowdon RJ, Batley J, Stein A, Werner C, **Parkin IAP**. A user guide to the Brassica 60K Illumina Infinium SNP genotyping array.*TAG Theoretical and applied genetics Theoretische und angewandte Genetik*. 2017;130(4):621-33."
+- 
+  citation: "Mason AS, Higgins EE, Snowdon RJ, Batley J, Stein A, Werner C, **Parkin IAP**. A user guide to the Brassica 60K Illumina Infinium SNP genotyping array.*TAG Theoretical and applied genetics Theoretische und angewandte Genetik*. 2017;130(4):621-33."
   date: 20170222
-  image: '/static/img/pub/Isobel_pub_51.png'
-  pdf: '/static/pdf/51.Mason-2017-A user guide to the Brassica 60K Il.pdf'
+  image: /static/img/pub/Isobel_pub_51.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/51.Mason-2017-A user guide to the Brassica 60K Il.pdf"
   pmid: 28220206
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Stein A, Coriton O, Rousseau-Gueutin M, Samans B, Schiessl SV, Obermeier C, **Parkin IAP**, Chevre AM, Snowdon RJ. Mapping of homoeologous chromosome exchanges influencing quantitative trait variation in Brassica napus.*Plant biotechnology journal*. 2017;15(11):1478-89."
+- 
+  citation: "Stein A, Coriton O, Rousseau-Gueutin M, Samans B, Schiessl SV, Obermeier C, **Parkin IAP**, Chevre AM, Snowdon RJ. Mapping of homoeologous chromosome exchanges influencing quantitative trait variation in Brassica napus.*Plant biotechnology journal*. 2017;15(11):1478-89."
   date: 20170404
-  image: '/static/img/pub/Isobel_pub_50.png'
-  pdf: '/static/pdf/50.Stein-2017-Mapping of homoeologous chromosome.pdf'
+  image: /static/img/pub/Isobel_pub_50.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/50.Stein-2017-Mapping of homoeologous chromosome.pdf"
   pmid: 28370938
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-##2016
-- citation: "Clarke WE, Higgins EE, Plieske J, Wieseke R, Sidebottom C, Khedikar Y, Batley J, Edwards D, Meng J, Li R, Lawley CT, Pauquet J, Laga B, Cheung W, Iniguez-Luy F, Dyrszka E, Rae S, Stich B, Snowdon RJ, Sharpe AG, Ganal MW, **Parkin IAP**. A high-density SNP genotyping array for Brassica napus and its ancestral diploid species based on optimised selection of single-locus markers in the allotetraploid genome.*TAG Theoretical and applied genetics *. 2016;129(10):1887-99."
+- 
+  citation: "Clarke WE, Higgins EE, Plieske J, Wieseke R, Sidebottom C, Khedikar Y, Batley J, Edwards D, Meng J, Li R, Lawley CT, Pauquet J, Laga B, Cheung W, Iniguez-Luy F, Dyrszka E, Rae S, Stich B, Snowdon RJ, Sharpe AG, Ganal MW, **Parkin IAP**. A high-density SNP genotyping array for Brassica napus and its ancestral diploid species based on optimised selection of single-locus markers in the allotetraploid genome.*TAG Theoretical and applied genetics *. 2016;129(10):1887-99."
   date: 20160702
-  image: '/static/img/pub/Isobel_pub_49.png'
-  pdf: '/static/pdf/49.Clarke-2016-A high-density SNP genotyping arra.pdf'
+  image: /static/img/pub/Isobel_pub_49.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/49.Clarke-2016-A high-density SNP genotyping arra.pdf"
   pmid: 27364915
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Golicz AA, Bayer PE, Barker GC, Edger PP, Kim H, Martinez PA, Chan CK, Severn-Ellis A, McCombie WR, **Parkin IAP**, Paterson AH, Pires JC, Sharpe AG, Tang H, Teakle GR, Town CD, Batley J, Edwards D. The pangenome of an agronomically important crop plant Brassica oleracea.*Nature communications*. 2016;7:13390."
+- 
+  citation: "Golicz AA, Bayer PE, Barker GC, Edger PP, Kim H, Martinez PA, Chan CK, Severn-Ellis A, McCombie WR, **Parkin IAP**, Paterson AH, Pires JC, Sharpe AG, Tang H, Teakle GR, Town CD, Batley J, Edwards D. The pangenome of an agronomically important crop plant Brassica oleracea.*Nature communications*. 2016;7:13390."
   date: 20161112
-  image: '/static/img/pub/Isobel_pub_48.png'
-  pdf: '/static/pdf/48.Golicz-2016-The pangenome of an agronomically.pdf'
+  image: /static/img/pub/Isobel_pub_48.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/48.Golicz-2016-The pangenome of an agronomically.pdf"
   pmid: 27834372
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Gyawali S, Harrington M, Durkin J, Horner K, **Parkin IAP**, Hegedus DD, Bekkaoui D, Buchwaldt L. Microsatellite markers used for genome-wide association mapping of partial resistance to Sclerotinia sclerotiorum in a world collection of Brassica napus.*Molecular breeding : new strategies in plant improvement*. 2016;36:72."
+- 
+  citation: "Gyawali S, Harrington M, Durkin J, Horner K, **Parkin IAP**, Hegedus DD, Bekkaoui D, Buchwaldt L. Microsatellite markers used for genome-wide association mapping of partial resistance to Sclerotinia sclerotiorum in a world collection of Brassica napus.*Molecular breeding : new strategies in plant improvement*. 2016;36:72."
   date: 20160623
-  image: '/static/img/pub/Isobel_pub_47.png'
-  pdf: '/static/pdf/47.Gyawali-2016-Microsatellite markers used for g.pdf'
+  image: /static/img/pub/Isobel_pub_47.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/47.Gyawali-2016-Microsatellite markers used for g.pdf"
   pmid: 27330402
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Korber N, Bus A, Li J, **Parkin IAP**, Wittkop B, Snowdon RJ, Stich B. Agronomic and Seed Quality Traits Dissected by Genome-Wide Association Mapping in Brassica napus.*Frontiers in plant science*. 2016;7:386."
+- 
+  citation: "Korber N, Bus A, Li J, **Parkin IAP**, Wittkop B, Snowdon RJ, Stich B. Agronomic and Seed Quality Traits Dissected by Genome-Wide Association Mapping in Brassica napus.*Frontiers in plant science*. 2016;7:386."
   date: 20160412
-  image: '/static/img/pub/Isobel_pub_46.png'
-  pdf: '/static/pdf/46.Korber-2016-Agronomic and Seed Quality Traits.pdf'
+  image: /static/img/pub/Isobel_pub_46.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/46.Korber-2016-Agronomic and Seed Quality Traits.pdf"
   pmid: 27066036
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Mason AS, Rousseau-Gueutin M, Morice J, Bayer PE, Besharat N, Cousin A, Pradhan A, **Parkin IAP**, Chevre AM, Batley J, Nelson MN. Centromere Locations in Brassica A and C Genomes Revealed Through Half-Tetrad Analysis.*Genetics*. 2016;202(2):513-23."
+- 
+  citation: "Mason AS, Rousseau-Gueutin M, Morice J, Bayer PE, Besharat N, Cousin A, Pradhan A, **Parkin IAP**, Chevre AM, Batley J, Nelson MN. Centromere Locations in Brassica A and C Genomes Revealed Through Half-Tetrad Analysis.*Genetics*. 2016;202(2):513-23."
   date: 20151129
-  image: '/static/img/pub/Isobel_pub_45.png'
-  pdf: '/static/pdf/45.Mason-2016-Centromere Locations in Brassica A.pdf'
+  image: /static/img/pub/Isobel_pub_45.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/45.Mason-2016-Centromere Locations in Brassica A.pdf"
   pmid: 26614742
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Rolfe SA, Strelkov SE, Links MG, Clarke WE, Robinson SJ, Djavaheri M, Malinowski R, Haddadi P, Kagale S, **Parkin IAP**, Taheri A, Borhan MH. The compact genome of the plant pathogen Plasmodiophora brassicae is adapted to intracellular interactions with host Brassica spp.*BMC genomics*. 2016;17:272."
+- 
+  citation: "Rolfe SA, Strelkov SE, Links MG, Clarke WE, Robinson SJ, Djavaheri M, Malinowski R, Haddadi P, Kagale S, **Parkin IAP**, Taheri A, Borhan MH. The compact genome of the plant pathogen Plasmodiophora brassicae is adapted to intracellular interactions with host Brassica spp.*BMC genomics*. 2016;17:272."
   date: 20160403
-  image: '/static/img/pub/Isobel_pub_44.png'
-  pdf: '/static/pdf/44.Rolfe-2016-The compact genome of the plant pat.pdf'
+  image: /static/img/pub/Isobel_pub_44.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/44.Rolfe-2016-The compact genome of the plant pat.pdf"
   pmid: 27036196
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Zou J, Hu D, Liu P, Raman H, Liu Z, Liu X, **Parkin IAP**, Chalhoub B, Meng J. Co-linearity and divergence of the A subgenome of Brassica juncea compared with other Brassica species carrying different A subgenomes.*BMC genomics*. 2016;17:18."
+- 
+  citation: "Zou J, Hu D, Liu P, Raman H, Liu Z, Liu X, **Parkin IAP**, Chalhoub B, Meng J. Co-linearity and divergence of the A subgenome of Brassica juncea compared with other Brassica species carrying different A subgenomes.*BMC genomics*. 2016;17:18."
   date: 20160106
-  image: '/static/img/pub/Isobel_pub_43.png'
-  pdf: '/static/pdf/43.Zou-2016-Co-linearity and divergence of the A.pdf'
+  image: /static/img/pub/Isobel_pub_43.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/43.Zou-2016-Co-linearity and divergence of the A.pdf"
   pmid: 26728943
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "He Z, Cheng F, Li Y, Wang X, **Parkin IAP**, Chalhoub B, Liu S, Bancroft I. Construction of Brassica A and C genome-based ordered pan-transcriptomes for use in rapeseed genomic research.*Data in brief*. 2015;4:357-62."
-  image: '/static/img/pub/Isobel_pub_42.png'
-  pdf: '/static/pdf/42.He-2015-Construction of Brassica A and C genom.pdf'
+- 
+  citation: "He Z, Cheng F, Li Y, Wang X, **Parkin IAP**, Chalhoub B, Liu S, Bancroft I. Construction of Brassica A and C genome-based ordered pan-transcriptomes for use in rapeseed genomic research.*Data in brief*. 2015;4:357-62."
+  image: /static/img/pub/Isobel_pub_42.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/42.He-2015-Construction of Brassica A and C genom.pdf"
   pmid: 26217816
-##2015
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Korber N, Bus A, Li J, Higgins J, Bancroft I, Higgins EE, **Parkin IAP**, Salazar-Colqui B, Snowdon RJ, Stich B. Seedling development traits in Brassica napus examined by gene expression analysis and association mapping.*BMC plant biology*. 2015;15:136."
+- 
+  citation: "Korber N, Bus A, Li J, Higgins J, Bancroft I, Higgins EE, **Parkin IAP**, Salazar-Colqui B, Snowdon RJ, Stich B. Seedling development traits in Brassica napus examined by gene expression analysis and association mapping.*BMC plant biology*. 2015;15:136."
   date: 20150610
-  image: '/static/img/pub/Isobel_pub_41.png'
-  pdf: '/static/pdf/41.Korber-2015-Seedling development traits in Bra.pdf'
+  image: /static/img/pub/Isobel_pub_41.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/41.Korber-2015-Seedling development traits in Bra.pdf"
   pmid: 26055390
-##2014
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Brown AF, Yousef GG, Chebrolu KK, Byrd RW, Everhart KW, Thomas A, Reid RW, **Parkin IAP**, Sharpe AG, Oliver R, Guzman I, Jackson EW. High-density single nucleotide polymorphism (SNP) array mapping in Brassica oleracea: identification of QTL associated with carotenoid variation in broccoli florets.*TAG Theoretical and applied genetics*. 2014;127(9):2051-64."
+- 
+  citation: "Brown AF, Yousef GG, Chebrolu KK, Byrd RW, Everhart KW, Thomas A, Reid RW, **Parkin IAP**, Sharpe AG, Oliver R, Guzman I, Jackson EW. High-density single nucleotide polymorphism (SNP) array mapping in Brassica oleracea: identification of QTL associated with carotenoid variation in broccoli florets.*TAG Theoretical and applied genetics*. 2014;127(9):2051-64."
   date: 20140815
-  image: '/static/img/pub/Isobel_pub_40.png'
-  pdf: '/static/pdf/40.Brown-2014-High-density single nucleotide poly.pdf'
+  image: /static/img/pub/Isobel_pub_40.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/40.Brown-2014-High-density single nucleotide poly.pdf"
   pmid: 25119868
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Bus A, Korber N, **Parkin IAP**, Samans B, Snowdon RJ, Li J, Stich B. Species- and genome-wide dissection of the shoot ionome in Brassica napus and its relationship to seedling development.*Frontiers in plant science*. 2014;5:485."
+- 
+  citation: "Bus A, Korber N, **Parkin IAP**, Samans B, Snowdon RJ, Li J, Stich B. Species- and genome-wide dissection of the shoot ionome in Brassica napus and its relationship to seedling development.*Frontiers in plant science*. 2014;5:485."
   date: 20141018
-  image: '/static/img/pub/Isobel_pub_39.png'
-  pdf: '/static/pdf/39.Bus-2014-Species- and genome-wide dissection o.pdf'
+  image: /static/img/pub/Isobel_pub_39.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/39.Bus-2014-Species- and genome-wide dissection o.pdf"
   pmid: 25324847
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Chalhoub B, Denoeud F, Liu S, **Parkin IAP**, Tang H, Wang X, Chiquet J, Belcram H, Tong C, Samans B, Correa M, Da Silva C, Just J, Falentin C, Koh CS, Le Clainche I, Bernard M, Bento P, Noel B, Labadie K, Alberti A, Charles M, Arnaud D, Guo H, Daviaud C, Alamery S, Jabbari K, Zhao M, Edger PP, Chelaifa H, Tack D, Lassalle G, Mestiri I, Schnel N, Le Paslier MC, Fan G, Renault V, Bayer PE, Golicz AA, Manoli S, Lee TH, Thi VH, Chalabi S, Hu Q, Fan C, Tollenaere R, Lu Y, Battail C, Shen J, Sidebottom CH, Wang X, Canaguier A, Chauveau A, Berard A, Deniot G, Guan M, Liu Z, Sun F, Lim YP, Lyons E, Town CD, Bancroft I, Wang X, Meng J, Ma J, Pires JC, King GJ, Brunel D, Delourme R, Renard M, Aury JM, Adams KL, Batley J, Snowdon RJ, Tost J, Edwards D, Zhou Y, Hua W, Sharpe AG, Paterson AH, Guan C, Wincker P.Early allopolyploid evolution in the post-Neolithic Brassica napus oilseed genome.*Science*. 2014;345(6199):950-3."
+- 
+  citation: "Chalhoub B, Denoeud F, Liu S, **Parkin IAP**, Tang H, Wang X, Chiquet J, Belcram H, Tong C, Samans B, Correa M, Da Silva C, Just J, Falentin C, Koh CS, Le Clainche I, Bernard M, Bento P, Noel B, Labadie K, Alberti A, Charles M, Arnaud D, Guo H, Daviaud C, Alamery S, Jabbari K, Zhao M, Edger PP, Chelaifa H, Tack D, Lassalle G, Mestiri I, Schnel N, Le Paslier MC, Fan G, Renault V, Bayer PE, Golicz AA, Manoli S, Lee TH, Thi VH, Chalabi S, Hu Q, Fan C, Tollenaere R, Lu Y, Battail C, Shen J, Sidebottom CH, Wang X, Canaguier A, Chauveau A, Berard A, Deniot G, Guan M, Liu Z, Sun F, Lim YP, Lyons E, Town CD, Bancroft I, Wang X, Meng J, Ma J, Pires JC, King GJ, Brunel D, Delourme R, Renard M, Aury JM, Adams KL, Batley J, Snowdon RJ, Tost J, Edwards D, Zhou Y, Hua W, Sharpe AG, Paterson AH, Guan C, Wincker P.Early allopolyploid evolution in the post-Neolithic Brassica napus oilseed genome.*Science*. 2014;345(6199):950-3."
   date: 20140826
-  image: '/static/img/pub/Isobel_pub_38.png'
-  pdf: '/static/pdf/38.Chalhoub-2014-Plant genetics. Early allopolypl.pdf'
+  image: /static/img/pub/Isobel_pub_38.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/38.Chalhoub-2014-Plant genetics. Early allopolypl.pdf"
   pmid: 25146293
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Fredua-Agyeman R, Coriton O, Huteau V, **Parkin IAP**, Chevre AM, Rahman H. Molecular cytogenetic identification of B genome chromosomes linked to blackleg disease resistance in Brassica napus x B.carinata intersepecfic hybrids.*TAG Theoretical and applied genetics *. 2014;127(6):1305-18."
+- 
+  citation: "Fredua-Agyeman R, Coriton O, Huteau V, **Parkin IAP**, Chevre AM, Rahman H. Molecular cytogenetic identification of B genome chromosomes linked to blackleg disease resistance in Brassica napus x B.carinata intersepecfic hybrids.*TAG Theoretical and applied genetics *. 2014;127(6):1305-18."
   date: 20140402
-  image: '/static/img/pub/Isobel_pub_37.png'
-  pdf: '/static/pdf/37.Fredua-Agyeman-2014-Molecular cytogenetic iden.pdf'
+  image: /static/img/pub/Isobel_pub_37.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/37.Fredua-Agyeman-2014-Molecular cytogenetic iden.pdf"
   pmid: 24687759
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Liu S, Liu Y, Yang X, Tong C, Edwards D, **Parkin IAP**, Zhao M, Ma J, Yu J, Huang S, Wang X, Wang J, Lu K, Fang Z, Bancroft I, Yang TJ, Hu Q, Wang X, Yue Z, Li H, Yang L, Wu J, Zhou Q, Wang W, King GJ, Pires JC, Lu C, Wu Z, Sampath P, Wang Z, Guo H, Pan S, Yang L, Min J, Zhang D, Jin D, Li W, Belcram H, Tu J, Guan M, Qi C, Du D, Li J, Jiang L, Batley J, Sharpe AG, Park BS, Ruperao P, Cheng F, Waminal NE, Huang Y, Dong C, Wang L, Li J, Hu Z, Zhuang M, Huang Y, Huang J, Shi J, Mei D, Liu J, Lee TH, Wang J, Jin H, Li Z, Li X, Zhang J, Xiao L, Zhou Y, Liu Z, Liu X, Qin R, Tang X, Liu W, Wang Y, Zhang Y, Lee J, Kim HH, Denoeud F, Xu X, Liang X, Hua W, Wang X, Wang J, Chalhoub B, Paterson AH. The Brassica oleracea genome reveals the asymmetrical evolution of polyploid genomes.*Nature communications*. 2014;5:3930."
+- 
+  citation: "Liu S, Liu Y, Yang X, Tong C, Edwards D, **Parkin IAP**, Zhao M, Ma J, Yu J, Huang S, Wang X, Wang J, Lu K, Fang Z, Bancroft I, Yang TJ, Hu Q, Wang X, Yue Z, Li H, Yang L, Wu J, Zhou Q, Wang W, King GJ, Pires JC, Lu C, Wu Z, Sampath P, Wang Z, Guo H, Pan S, Yang L, Min J, Zhang D, Jin D, Li W, Belcram H, Tu J, Guan M, Qi C, Du D, Li J, Jiang L, Batley J, Sharpe AG, Park BS, Ruperao P, Cheng F, Waminal NE, Huang Y, Dong C, Wang L, Li J, Hu Z, Zhuang M, Huang Y, Huang J, Shi J, Mei D, Liu J, Lee TH, Wang J, Jin H, Li Z, Li X, Zhang J, Xiao L, Zhou Y, Liu Z, Liu X, Qin R, Tang X, Liu W, Wang Y, Zhang Y, Lee J, Kim HH, Denoeud F, Xu X, Liang X, Hua W, Wang X, Wang J, Chalhoub B, Paterson AH. The Brassica oleracea genome reveals the asymmetrical evolution of polyploid genomes.*Nature communications*. 2014;5:3930."
   date: 20140524
-  image: '/static/img/pub/Isobel_pub_36.png'
-  pdf: '/static/pdf/36.Liu-2014-The Brassica oleracea genome reveals.pdf'
+  image: /static/img/pub/Isobel_pub_36.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/36.Liu-2014-The Brassica oleracea genome reveals.pdf"
   pmid: 24852848
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Nayidu NK, Kagale S, Taheri A, Withana-Gamage TS, **Parkin IAP**, Sharpe AG, Gruber MY. Comparison of five major trichome regulatory genes in Brassica villosa with orthologues within the Brassicaceae.*PloS one*. 2014;9(4):e95877."
+- 
+  citation: "Nayidu NK, Kagale S, Taheri A, Withana-Gamage TS, **Parkin IAP**, Sharpe AG, Gruber MY. Comparison of five major trichome regulatory genes in Brassica villosa with orthologues within the Brassicaceae.*PloS one*. 2014;9(4):e95877."
   date: 20140424
-  image: '/static/img/pub/Isobel_pub_35.png'
-  pdf: '/static/pdf/35.Nayidu-2014-Comparison of five major trichome.pdf'
+  image: /static/img/pub/Isobel_pub_35.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/35.Nayidu-2014-Comparison of five major trichome.pdf"
   pmid: 24755905
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "**Parkin IAP**, Koh C, Tang H, Robinson SJ, Kagale S, Clarke WE, Town CD, Nixon J, Krishnakumar V, Bidwell SL, Denoeud F, Belcram H, Links MG, Just J, Clarke C, Bender T, Huebert T, Mason AS, Pires JC, Barker G, Moore J, Walley PG, Manoli S, Batley J, Edwards D, Nelson MN, Wang X, Paterson AH, King G, Bancroft I, Chalhoub B, Sharpe AG. Transcriptome and methylome profiling reveals relics of genome dominance in the mesopolyploid Brassica oleracea.*Genome biology*. 2014;15(6):R77."
+- 
+  citation: "**Parkin IAP**, Koh C, Tang H, Robinson SJ, Kagale S, Clarke WE, Town CD, Nixon J, Krishnakumar V, Bidwell SL, Denoeud F, Belcram H, Links MG, Just J, Clarke C, Bender T, Huebert T, Mason AS, Pires JC, Barker G, Moore J, Walley PG, Manoli S, Batley J, Edwards D, Nelson MN, Wang X, Paterson AH, King G, Bancroft I, Chalhoub B, Sharpe AG. Transcriptome and methylome profiling reveals relics of genome dominance in the mesopolyploid Brassica oleracea.*Genome biology*. 2014;15(6):R77."
   date: 20140612
-  image: '/static/img/pub/Isobel_pub_34.png'
-  pdf: '/static/pdf/34.Parkin-2014-Transcriptome and methylome profil.pdf'
+  image: /static/img/pub/Isobel_pub_34.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/34.Parkin-2014-Transcriptome and methylome profil.pdf"
   pmid: 24916971
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Raman H, Raman R, Kilian A, Detering F, Carling J, Coombes N, Diffey S, Kadkol G, Edwards D, McCully M, Ruperao P, **Parkin IAP**, Batley J, Luckett DJ, Wratten N. Genome-wide delineation of natural variation for pod shatter resistance in Brassica napus.*PloS one*. 2014;9(7):e101673."
+- 
+  citation: "Raman H, Raman R, Kilian A, Detering F, Carling J, Coombes N, Diffey S, Kadkol G, Edwards D, McCully M, Ruperao P, **Parkin IAP**, Batley J, Luckett DJ, Wratten N. Genome-wide delineation of natural variation for pod shatter resistance in Brassica napus.*PloS one*. 2014;9(7):e101673."
   date: 20140710
-  image: '/static/img/pub/Isobel_pub_33.png'
-  pdf: '/static/pdf/33.Raman-2014-Genome-wide delineation of natural.pdf'
+  image: /static/img/pub/Isobel_pub_33.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/33.Raman-2014-Genome-wide delineation of natural.pdf"
   pmid: 25006804
-##2013
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Clarke WE, **Parkin IAP**, Gajardo HA, Gerhardt DJ, Higgins E, Sidebottom C, Sharpe AG, Snowdon RJ, Federico ML, Iniguez-Luy FL. Genomic DNA enrichment using sequence capture microarrays: a novel approach to discover sequence nucleotide polymorphisms (SNP) in Brassica napus L.*PloS one*. 2013;8(12):e81992."
+- 
+  citation: "Clarke WE, **Parkin IAP**, Gajardo HA, Gerhardt DJ, Higgins E, Sidebottom C, Sharpe AG, Snowdon RJ, Federico ML, Iniguez-Luy FL. Genomic DNA enrichment using sequence capture microarrays: a novel approach to discover sequence nucleotide polymorphisms (SNP) in Brassica napus L.*PloS one*. 2013;8(12):e81992."
   date: 20131207
-  image: '/static/img/pub/Isobel_pub_32.png'
-  pdf: '/static/pdf/32.Clarke-2013-Genomic DNA enrichment using seque.pdf'
+  image: /static/img/pub/Isobel_pub_32.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/32.Clarke-2013-Genomic DNA enrichment using seque.pdf"
   pmid: 24312619
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Larkan NJ, Lydiate DJ, **Parkin IAP**, Nelson MN, Epp DJ, Cowling WA, Rimmer SR, Borhan MH. The Brassica napus blackleg resistance gene LepR3 encodes a receptor-like protein triggered by the Leptosphaeria maculans effector AVRLM1.*The New phytologist*. 2013;197(2):595-605."
+- 
+  citation: "Larkan NJ, Lydiate DJ, **Parkin IAP**, Nelson MN, Epp DJ, Cowling WA, Rimmer SR, Borhan MH. The Brassica napus blackleg resistance gene LepR3 encodes a receptor-like protein triggered by the Leptosphaeria maculans effector AVRLM1.*The New phytologist*. 2013;197(2):595-605."
   date: 20121205
-  image: '/static/img/pub/Isobel_pub_31.png'
-  pdf: '/static/pdf/31.Larkan_et_al-2013-New_Phytologist.pdf'
+  image: /static/img/pub/Isobel_pub_31.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: /static/pdf/31.Larkan_et_al-2013-New_Phytologist.pdf
   pmid: 23206118
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Navabi ZK, Huebert T, Sharpe AG, O'Neill CM, Bancroft I, **Parkin IAP**. Conserved microstructure of the Brassica B Genome of Brassica nigra in relation to homologous regions of Arabidopsis thaliana, B. rapa and B. oleracea.*BMC genomics*. 2013;14:250."
+- 
+  citation: "Navabi ZK, Huebert T, Sharpe AG, O'Neill CM, Bancroft I, **Parkin IAP**. Conserved microstructure of the Brassica B Genome of Brassica nigra in relation to homologous regions of Arabidopsis thaliana, B. rapa and B. oleracea.*BMC genomics*. 2013;14:250."
   date: 20130417
-  image: '/static/img/pub/Isobel_pub_30.png'
-  pdf: '/static/pdf/30.Navabi-2013-Conserved microstructure of the Br.pdf'
+  image: /static/img/pub/Isobel_pub_30.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/30.Navabi-2013-Conserved microstructure of the Br.pdf"
   pmid: 23586706
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Raman H, Raman R, Kilian A, Detering F, Long Y, Edwards D, **Parkin IAP**, Sharpe AG, Nelson MN, Larkan N, Zou J, Meng J, Aslam MN, Batley J, Cowling WA, Lydiate D. A consensus map of rapeseed (Brassica napus L. ) based on diversity array technology markers: applications in genetic dissection of qualitative and quantitative traits.*BMC genomics*. 2013;14:277."
+- 
+  citation: "Raman H, Raman R, Kilian A, Detering F, Long Y, Edwards D, **Parkin IAP**, Sharpe AG, Nelson MN, Larkan N, Zou J, Meng J, Aslam MN, Batley J, Cowling WA, Lydiate D. A consensus map of rapeseed (Brassica napus L. ) based on diversity array technology markers: applications in genetic dissection of qualitative and quantitative traits.*BMC genomics*. 2013;14:277."
   date: 20130427
-  image: '/static/img/pub/Isobel_pub_29.png'
-  pdf: '/static/pdf/29.Raman-2013-A consensus map of rapeseed (Brassi.pdf'
+  image: /static/img/pub/Isobel_pub_29.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/29.Raman-2013-A consensus map of rapeseed (Brassi.pdf"
   pmid: 23617817
-##2012
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Cardenas PD, Gajardo HA, Huebert T, **Parkin IAP**, Iniguez-Luy FL, Federico ML. Retention of triplicated phytoene synthase (PSY) genes in Brassica napus L. and its diploid progenitors during the evolution of the Brassiceae.*TAG Theoretical and applied genetics Theoretische und angewandte Genetik*. 2012;124(7):1215-28."
+- 
+  citation: "Cardenas PD, Gajardo HA, Huebert T, **Parkin IAP**, Iniguez-Luy FL, Federico ML. Retention of triplicated phytoene synthase (PSY) genes in Brassica napus L. and its diploid progenitors during the evolution of the Brassiceae.*TAG Theoretical and applied genetics Theoretische und angewandte Genetik*. 2012;124(7):1215-28."
   date: 20120114
-  image: '/static/img/pub/Isobel_pub_28.png'
-  pdf: '/static/pdf/28.Cardenas-2012-Retention of triplicated phytoen.pdf'
+  image: /static/img/pub/Isobel_pub_28.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/28.Cardenas-2012-Retention of triplicated phytoen.pdf"
   pmid: 22241480
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Yu B, Gruber MY, Khachatourians GG, Zhou R, Epp DJ, Hegedus DD, **Parkin IAP**, Welsch R, Hannoufa A. Arabidopsis cpSRP54 regulates carotenoid accumulation in Arabidopsis and Brassica napus.*Journal of experimental botany*. 2012;63(14):5189-202."
+- 
+  citation: "Yu B, Gruber MY, Khachatourians GG, Zhou R, Epp DJ, Hegedus DD, **Parkin IAP**, Welsch R, Hannoufa A. Arabidopsis cpSRP54 regulates carotenoid accumulation in Arabidopsis and Brassica napus.*Journal of experimental botany*. 2012;63(14):5189-202."
   date: 20120714
-  image: '/static/img/pub/Isobel_pub_27.png'
-  pdf: '/static/pdf/27.Yu-2012-Arabidopsis cpSRP54 regulates caroteno.pdf'
+  image: /static/img/pub/Isobel_pub_27.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/27.Yu-2012-Arabidopsis cpSRP54 regulates caroteno.pdf"
   pmid: 22791829
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-##2011
-- citation: "Navabi ZK, Stead KE, Pires JC, Xiong Z, Sharpe AG, **Parkin IAP**, Rahman MH, Good AG. Analysis of B-genome chromosome introgression in interspecific hybrids of Brassica napus x B. carinata.*Genetics*. 2011;187(3):659-73."
+- 
+  citation: "Navabi ZK, Stead KE, Pires JC, Xiong Z, Sharpe AG, **Parkin IAP**, Rahman MH, Good AG. Analysis of B-genome chromosome introgression in interspecific hybrids of Brassica napus x B. carinata.*Genetics*. 2011;187(3):659-73."
   date: 20110105
-  image: '/static/img/pub/Isobel_pub_26.png'
-  pdf: '/static/pdf/26.Navabi-2011-Analysis of B-genome chromosome in.pdf'
+  image: /static/img/pub/Isobel_pub_26.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/26.Navabi-2011-Analysis of B-genome chromosome in.pdf"
   pmid: 21196520
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Wang J, Lydiate DJ, **Parkin IAP**, Falentin C, Delourme R, Carion PW, King GJ. Integration of linkage maps for the Amphidiploid Brassica napus and comparative mapping with Arabidopsis and Brassica rapa.*BMC genomics*. 2011;12:101."
+- 
+  citation: "Wang J, Lydiate DJ, **Parkin IAP**, Falentin C, Delourme R, Carion PW, King GJ. Integration of linkage maps for the Amphidiploid Brassica napus and comparative mapping with Arabidopsis and Brassica rapa.*BMC genomics*. 2011;12:101."
   date: 20110211
-  image: '/static/img/pub/Isobel_pub_25.png'
-  pdf: '/static/pdf/25.Wang-2011-Integration of linkage maps for the.pdf'
+  image: /static/img/pub/Isobel_pub_25.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/25.Wang-2011-Integration of linkage maps for the.pdf"
   pmid: 21306613
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Wang X, Wang H, Wang J, Sun R, Wu J, Liu S, Bai Y, Mun JH, Bancroft I, Cheng F, Huang S, Li X, Hua W, Wang J, Wang X, Freeling M, Pires JC, Paterson AH, Chalhoub B, Wang B, Hayward A, Sharpe AG, Park BS, Weisshaar B, Liu B, Li B, Liu B, Tong C, Song C, Duran C, Peng C, Geng C, Koh C, Lin C, Edwards D, Mu D, Shen D, Soumpourou E, Li F, Fraser F, Conant G, Lassalle G, King GJ, Bonnema G, Tang H, Wang H, Belcram H, Zhou H, Hirakawa H, Abe H, Guo H, Wang H, Jin H, **Parkin IAP**, Batley J, Kim JS, Just J, Li J, Xu J, Deng J, Kim JA, Li J, Yu J, Meng J, Wang J, Min J, Poulain J, Wang J, Hatakeyama K, Wu K, Wang L, Fang L, Trick M, Links MG, Zhao M, Jin M, Ramchiary N, Drou N, Berkman PJ, Cai Q, Huang Q, Li R, Tabata S, Cheng S, Zhang S, Zhang S, Huang S, Sato S, Sun S, Kwon SJ, Choi SR, Lee TH, Fan W, Zhao X, Tan X, Xu X, Wang Y, Qiu Y, Yin Y, Li Y, Du Y, Liao Y, Lim Y, Narusaka Y, Wang Y, Wang Z, Li Z, Wang Z, Xiong Z, Zhang Z, Brassica rapa Genome Sequencing Project C. The genome of the mesopolyploid crop species Brassica rapa.*Nature genetics*. 2011;43(10):1035-9."
+- 
+  citation: "Wang X, Wang H, Wang J, Sun R, Wu J, Liu S, Bai Y, Mun JH, Bancroft I, Cheng F, Huang S, Li X, Hua W, Wang J, Wang X, Freeling M, Pires JC, Paterson AH, Chalhoub B, Wang B, Hayward A, Sharpe AG, Park BS, Weisshaar B, Liu B, Li B, Liu B, Tong C, Song C, Duran C, Peng C, Geng C, Koh C, Lin C, Edwards D, Mu D, Shen D, Soumpourou E, Li F, Fraser F, Conant G, Lassalle G, King GJ, Bonnema G, Tang H, Wang H, Belcram H, Zhou H, Hirakawa H, Abe H, Guo H, Wang H, Jin H, **Parkin IAP**, Batley J, Kim JS, Just J, Li J, Xu J, Deng J, Kim JA, Li J, Yu J, Meng J, Wang J, Min J, Poulain J, Wang J, Hatakeyama K, Wu K, Wang L, Fang L, Trick M, Links MG, Zhao M, Jin M, Ramchiary N, Drou N, Berkman PJ, Cai Q, Huang Q, Li R, Tabata S, Cheng S, Zhang S, Zhang S, Huang S, Sato S, Sun S, Kwon SJ, Choi SR, Lee TH, Fan W, Zhao X, Tan X, Xu X, Wang Y, Qiu Y, Yin Y, Li Y, Du Y, Liao Y, Lim Y, Narusaka Y, Wang Y, Wang Z, Li Z, Wang Z, Xiong Z, Zhang Z, Brassica rapa Genome Sequencing Project C. The genome of the mesopolyploid crop species Brassica rapa.*Nature genetics*. 2011;43(10):1035-9."
   date: 20110830
-  image: '/static/img/pub/Isobel_pub_24.png'
-  pdf: '/static/pdf/24.Wang-2011-The genome of the mesopolyploid crop.pdf'
+  image: /static/img/pub/Isobel_pub_24.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/24.Wang-2011-The genome of the mesopolyploid crop.pdf"
   pmid: 21873998
-##2010
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Mun JH, Kwon SJ, Seol YJ, Kim JA, Jin M, Kim JS, Lim MH, Lee SI, Hong JK, Park TH, Lee SC, Kim BJ, Seo MS, Baek S, Lee MJ, Shin JY, Hahn JH, Hwang YJ, Lim KB, Park JY, Lee J, Yang TJ, Yu HJ, Choi IY, Choi BS, Choi SR, Ramchiary N, Lim YP, Fraser F, Drou N, Soumpourou E, Trick M, Bancroft I, Sharpe AG, **Parkin IAP**, Batley J, Edwards D, Park BS. Sequence and structure of Brassica rapa chromosome A3.*Genome biology*. 2010;11(9):R94."
-  image: '/static/img/pub/Isobel_pub_23.png'
-  pdf: '/static/pdf/23.Mun-2010-Sequence and structure of Brassica ra.pdf'
+- 
+  citation: "Mun JH, Kwon SJ, Seol YJ, Kim JA, Jin M, Kim JS, Lim MH, Lee SI, Hong JK, Park TH, Lee SC, Kim BJ, Seo MS, Baek S, Lee MJ, Shin JY, Hahn JH, Hwang YJ, Lim KB, Park JY, Lee J, Yang TJ, Yu HJ, Choi IY, Choi BS, Choi SR, Ramchiary N, Lim YP, Fraser F, Drou N, Soumpourou E, Trick M, Bancroft I, Sharpe AG, **Parkin IAP**, Batley J, Edwards D, Park BS. Sequence and structure of Brassica rapa chromosome A3.*Genome biology*. 2010;11(9):R94."
   date: 20100930
+  image: /static/img/pub/Isobel_pub_23.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/23.Mun-2010-Sequence and structure of Brassica ra.pdf"
   pmid: 20875114
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Navabi ZK, **Parkin IAP**, Pires JC, Xiong Z, Thiagarajah MR, Good AG, Rahman MH. Introgression of B-genome chromosomes in a doubled haploid population of Brassica napus x B. carinata.*Genome*. 2010;53(8):619-29."
+- 
+  citation: "Navabi ZK, **Parkin IAP**, Pires JC, Xiong Z, Thiagarajah MR, Good AG, Rahman MH. Introgression of B-genome chromosomes in a doubled haploid population of Brassica napus x B. carinata.*Genome*. 2010;53(8):619-29."
   date: 20100821
-  image: '/static/img/pub/Isobel_pub_22.png'
-  pdf: '/static/pdf/22.Navabi-2010-Introgression of B-genome chromoso.pdf'
+  image: /static/img/pub/Isobel_pub_22.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/22.Navabi-2010-Introgression of B-genome chromoso.pdf"
   pmid: 20725149
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "**Parkin IAP**, Clarke WE, Sidebottom C, Zhang W, Robinson SJ, Links MG, Karcz S, Higgins EE, Fobert P, Sharpe AG. Towards unambiguous transcript mapping in the allotetraploid Brassica napus.*Genome*. 2010;53(11):929-38."
+- 
+  citation: "**Parkin IAP**, Clarke WE, Sidebottom C, Zhang W, Robinson SJ, Links MG, Karcz S, Higgins EE, Fobert P, Sharpe AG. Towards unambiguous transcript mapping in the allotetraploid Brassica napus.*Genome*. 2010;53(11):929-38."
   date: 20101116
-  image: '/static/img/pub/Isobel_pub_21.png'
-  pdf: '/static/pdf/21.Parkin-2010-Towards unambiguous transcript map.pdf'
+  image: /static/img/pub/Isobel_pub_21.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/21.Parkin-2010-Towards unambiguous transcript map.pdf"
   pmid: 21076508
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-##2009
-- citation: "Himelblau E, Gilchrist EJ, Buono K, Bizzell C, Mentzer L, Vogelzang R, Osborn T, Amasino RM, **Parkin IAP**, Haughn GW. Forward and reverse genetics of rapid-cycling Brassica oleracea.*TAG Theoretical and applied genetics Theoretische und angewandte Genetik*. 2009;118(5):953-61."
+- 
+  citation: "Himelblau E, Gilchrist EJ, Buono K, Bizzell C, Mentzer L, Vogelzang R, Osborn T, Amasino RM, **Parkin IAP**, Haughn GW. Forward and reverse genetics of rapid-cycling Brassica oleracea.*TAG Theoretical and applied genetics Theoretische und angewandte Genetik*. 2009;118(5):953-61."
   date: 20090110
-  image: '/static/img/pub/Isobel_pub_20.png'
-  pdf: '/static/pdf/20.Himelblau-2009-Forward and reverse genetics of.pdf'
+  image: /static/img/pub/Isobel_pub_20.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/20.Himelblau-2009-Forward and reverse genetics of.pdf"
   pmid: 19132334
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-##2008
-- citation: "Hegedus DD, Li R, Buchwaldt L, **Parkin IAP**, Whitwill S, Coutu C, Bekkaoui D, Rimmer SR. Brassica napus possesses an expanded set of polygalacturonase inhibitor protein genes that are differentially regulated in response to Sclerotinia sclerotiorum infection, wounding and defense hormone treatment.*Planta*. 2008;228(2):241-53."
+- 
+  citation: "Hegedus DD, Li R, Buchwaldt L, **Parkin IAP**, Whitwill S, Coutu C, Bekkaoui D, Rimmer SR. Brassica napus possesses an expanded set of polygalacturonase inhibitor protein genes that are differentially regulated in response to Sclerotinia sclerotiorum infection, wounding and defense hormone treatment.*Planta*. 2008;228(2):241-53."
   date: 20080424
-  image: '/static/img/pub/Isobel_pub_19.png'
-  pdf: '/static/pdf/19.Hegedus-2008-Brassica napus possesses an expan.pdf'
+  image: /static/img/pub/Isobel_pub_19.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/19.Hegedus-2008-Brassica napus possesses an expan.pdf"
   pmid: 18431596
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-##2005
-- citation: "Mayerhofer R, Wilde K, Mayerhofer M, Lydiate D, Bansal VK, Good AG, **Parkin IAP**. Complexities of chromosome landing in a highly duplicated genome: toward map-based cloning of a gene controlling blackleg resistance in Brassica napus.*Genetics*. 2005;171(4):1977-88."
+- 
+  citation: "Mayerhofer R, Wilde K, Mayerhofer M, Lydiate D, Bansal VK, Good AG, **Parkin IAP**. Complexities of chromosome landing in a highly duplicated genome: toward map-based cloning of a gene controlling blackleg resistance in Brassica napus.*Genetics*. 2005;171(4):1977-88."
   date: 20050907
-  image: '/static/img/pub/Isobel_pub_18.png'
-  pdf: '/static/pdf/18.Mayerhofer-2005-Complexities of chromosome lan.pdf'
+  image: /static/img/pub/Isobel_pub_18.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/18.Mayerhofer-2005-Complexities of chromosome lan.pdf"
   pmid: 16143600
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "**Parkin IAP**, Gulden SM, Sharpe AG, Lukens L, Trick M, Osborn TC, Lydiate DJ. Segmental structure of the Brassica napus genome based on comparative analysis with Arabidopsis thaliana.*Genetics*. 2005;171(2):765-81."
+- 
+  citation: "**Parkin IAP**, Gulden SM, Sharpe AG, Lukens L, Trick M, Osborn TC, Lydiate DJ. Segmental structure of the Brassica napus genome based on comparative analysis with Arabidopsis thaliana.*Genetics*. 2005;171(2):765-81."
   date: 20050716
-  image: '/static/img/pub/Isobel_pub_17.png'
-  pdf: '/static/pdf/17.Parkin-2005-Segmental structure of the Brassic.pdf'
+  image: /static/img/pub/Isobel_pub_17.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/17.Parkin-2005-Segmental structure of the Brassic.pdf"
   pmid: 16020789
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-##2004
-- citation: "Ekuere UU, **Parkin IAP**, Bowman C, Marshall D, Lydiate DJ. Latent S alleles are widespread in cultivated self-compatible Brassica napus.*Genome*. 2004;47(2):257-65."
+- 
+  citation: "Ekuere UU, **Parkin IAP**, Bowman C, Marshall D, Lydiate DJ. Latent S alleles are widespread in cultivated self-compatible Brassica napus.*Genome*. 2004;47(2):257-65."
   date: 20040403
-  image: '/static/img/pub/Isobel_pub_16.png'
-  pdf: '/static/pdf/16.Ekuere-2004-Latent S alleles are widespread in.pdf'
+  image: /static/img/pub/Isobel_pub_16.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/16.Ekuere-2004-Latent S alleles are widespread in.pdf"
   pmid: 15060578
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-##2003
-- citation: "Gao MJ, Schafer UA, **Parkin IAP**, Hegedus DD, Lydiate DJ, Hannoufa A. A novel protein from Brassica napus has a putative KID domain and responds to low temperature.*The Plant journal : for cell and molecular biology*. 2003;33(6):1073-86."
+- 
+  citation: "Gao MJ, Schafer UA, **Parkin IAP**, Hegedus DD, Lydiate DJ, Hannoufa A. A novel protein from Brassica napus has a putative KID domain and responds to low temperature.*The Plant journal : for cell and molecular biology*. 2003;33(6):1073-86."
   date: 20030313
-  image: '/static/img/pub/Isobel_pub_15.png'
-  pdf: '/static/pdf/15.Gao_et_al-2003-The_Plant_Journal.pdf'
+  image: /static/img/pub/Isobel_pub_15.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: /static/pdf/15.Gao_et_al-2003-The_Plant_Journal.pdf
   pmid: 12631331
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Hegedus D, Yu M, Baldwin D, Gruber M, Sharpe A, **Parkin IAP**, Whitwill S, Lydiate D. Molecular characterization of Brassica napus NAC domain transcriptional activators induced in response to biotic and abiotic stress.*Plant molecular biology*. 2003;53(3):383-97."
+- 
+  citation: "Hegedus D, Yu M, Baldwin D, Gruber M, Sharpe A, **Parkin IAP**, Whitwill S, Lydiate D. Molecular characterization of Brassica napus NAC domain transcriptional activators induced in response to biotic and abiotic stress.*Plant molecular biology*. 2003;53(3):383-97."
   date: 20040131
-  image: '/static/img/pub/Isobel_pub_14.png'
-  pdf: '/static/pdf/14.hegedus2003.pdf'
+  image: /static/img/pub/Isobel_pub_14.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: /static/pdf/14.hegedus2003.pdf
   pmid: 14750526
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Lukens L, Zou F, Lydiate D, **Parkin IAP**, Osborn T. Comparison of a Brassica oleracea genetic map with the genome of Arabidopsis thaliana.*Genetics*. 2003;164(1):359-72."
+- 
+  citation: "Lukens L, Zou F, Lydiate D, **Parkin IAP**, Osborn T. Comparison of a Brassica oleracea genetic map with the genome of Arabidopsis thaliana.*Genetics*. 2003;164(1):359-72."
   date: 20030517
-  image: '/static/img/pub/Isobel_pub_13.png'
-  pdf: '/static/pdf/13.Lukens-2003-Comparison of a Brassica oleracea.pdf'
+  image: /static/img/pub/Isobel_pub_13.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/13.Lukens-2003-Comparison of a Brassica oleracea.pdf"
   pmid: 12750346
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Osborn TC, Butrulle DV, Sharpe AG, Pickering KJ, **Parkin IAP**, Parker JS, Lydiate DJ. Detection and effects of a homeologous reciprocal transposition in Brassica napus.*Genetics*. 2003;165(3):1569-77."
+- 
+  citation: "Osborn TC, Butrulle DV, Sharpe AG, Pickering KJ, **Parkin IAP**, Parker JS, Lydiate DJ. Detection and effects of a homeologous reciprocal transposition in Brassica napus.*Genetics*. 2003;165(3):1569-77."
   date: 20031212
-  image: '/static/img/pub/Isobel_pub_12.png'
-  pdf: '/static/pdf/12.Osborn-2003-Detection and effects of a homeolo.pdf'
+  image: /static/img/pub/Isobel_pub_12.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/12.Osborn-2003-Detection and effects of a homeolo.pdf"
   pmid: 14668403
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "**Parkin IAP**, Sharpe AG, Lydiate DJ. Patterns of genome duplication within the Brassica napus genome.*Genome*. 2003;46(2):291-303."
+- 
+  citation: "**Parkin IAP**, Sharpe AG, Lydiate DJ. Patterns of genome duplication within the Brassica napus genome.*Genome*. 2003;46(2):291-303."
   date: 20030502
-  image: '/static/img/pub/Isobel_pub_11.png'
-  pdf: '/static/pdf/11.2003-Patterns of genome duplication.pdf'
+  image: /static/img/pub/Isobel_pub_11.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/11.2003-Patterns of genome duplication.pdf"
   pmid: 12723045
-##2002
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "**Parkin IAP**, Lydiate DJ, Trick M. Assessing the level of collinearity between Arabidopsis thaliana and Brassica napus for A. thaliana chromosome 5.*Genome*. 2002;45(2):356-66."
+- 
+  citation: "**Parkin IAP**, Lydiate DJ, Trick M. Assessing the level of collinearity between Arabidopsis thaliana and Brassica napus for A. thaliana chromosome 5.*Genome*. 2002;45(2):356-66."
   date: 20020419
-  image: '/static/img/pub/Isobel_pub_10.png'
-  pdf: '/static/pdf/10.Parkin-2002-Assessing the level of collinearit.pdf'
+  image: /static/img/pub/Isobel_pub_10.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/10.Parkin-2002-Assessing the level of collinearit.pdf"
   pmid: 11962633
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Vicente JG, Taylor JD, Sharpe AG, **Parkin IAP**, Lydiate DJ, King GJ. Inheritance of Race-Specific Resistance to Xanthomonas campestris pv. campestris in Brassica Genomes.*Phytopathology*. 2002;92(10):1134-41."
+- 
+  citation: "Vicente JG, Taylor JD, Sharpe AG, **Parkin IAP**, Lydiate DJ, King GJ. Inheritance of Race-Specific Resistance to Xanthomonas campestris pv. campestris in Brassica Genomes.*Phytopathology*. 2002;92(10):1134-41."
   date: 20081024
-  image: '/static/img/pub/Isobel_pub_9.png'
-  pdf: '/static/pdf/9.Vicente-2002-Inheritance of Race-Specific Resi.pdf'
+  image: /static/img/pub/Isobel_pub_9.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/9.Vicente-2002-Inheritance of Race-Specific Resi.pdf"
   pmid: 18944224
-##2000
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Sillito D, **Parkin IAP**, Mayerhofer R, Lydiate DJ, Good AG. Arabidopsis thaliana: a source of candidate disease-resistance genes for Brassica napus.*Genome*. 2000;43(3):452-60."
+- 
+  citation: "Sillito D, **Parkin IAP**, Mayerhofer R, Lydiate DJ, Good AG. Arabidopsis thaliana: a source of candidate disease-resistance genes for Brassica napus.*Genome*. 2000;43(3):452-60."
   date: 20000721
-  image: '/static/img/pub/Isobel_pub_8.png'
-  pdf: '/static/pdf/8.Sillito-2000-Arabidopsis thaliana_ a source of.pdf'
+  image: /static/img/pub/Isobel_pub_8.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/8.Sillito-2000-Arabidopsis thaliana_ a source of.pdf"
   pmid: 10902708
-##1998
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Cavell AC, Lydiate DJ, **Parkin IAP**, Dean C, Trick M. Collinearity between a 30-centimorgan segment of Arabidopsis thaliana chromosome 4 and duplicated regions within the Brassica napus genome.*Genome*. 1998;41(1):62-9."
+- 
+  citation: "Cavell AC, Lydiate DJ, **Parkin IAP**, Dean C, Trick M. Collinearity between a 30-centimorgan segment of Arabidopsis thaliana chromosome 4 and duplicated regions within the Brassica napus genome.*Genome*. 1998;41(1):62-9."
   date: 19980429
-  image: '/static/img/pub/Isobel_pub_7.png'
-  pdf: '/static/pdf/7.cavellg97-097.pdf'
+  image: /static/img/pub/Isobel_pub_7.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: /static/pdf/7.cavellg97-097.pdf
   pmid: 9549059
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Doughty J, Dixon S, Hiscock SJ, Willis AC, **Parkin IAP**, Dickinson HG. PCP-A1, a defensin-like Brassica pollen coat protein that binds the S locus glycoprotein, is the product of gametophytic gene expression.*The Plant cell*. 1998;10(8):1333-47."
+- 
+  citation: "Doughty J, Dixon S, Hiscock SJ, Willis AC, **Parkin IAP**, Dickinson HG. PCP-A1, a defensin-like Brassica pollen coat protein that binds the S locus glycoprotein, is the product of gametophytic gene expression.*The Plant cell*. 1998;10(8):1333-47."
   date: 19980826
-  image: '/static/img/pub/Isobel_pub_6.png'
-  pdf: '/static/pdf/6.Doughty-1998-PCP-A1, a defensin-like Brassica.pdf'
+  image: /static/img/pub/Isobel_pub_6.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/6.Doughty-1998-PCP-A1, a defensin-like Brassica.pdf"
   pmid: 9707533
-##1997
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Osborn TC, Kole C, **Parkin IAP**, Sharpe AG, Kuiper M, Lydiate DJ, Trick M. Comparison of flowering time genes in Brassica rapa, B. napus and Arabidopsis thaliana.*Genetics*. 1997;146(3):1123-9."
+- 
+  citation: "Osborn TC, Kole C, **Parkin IAP**, Sharpe AG, Kuiper M, Lydiate DJ, Trick M. Comparison of flowering time genes in Brassica rapa, B. napus and Arabidopsis thaliana.*Genetics*. 1997;146(3):1123-9."
   date: 19970701
-  image: '/static/img/pub/Isobel_pub_5.png'
-  pdf: '/static/pdf/5.Osborn-1997-Comparison of flowering time genes.pdf'
+  image: /static/img/pub/Isobel_pub_5.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/5.Osborn-1997-Comparison of flowering time genes.pdf"
   pmid: 9215913
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "**Parkin IAP**, Lydiate DJ. Conserved patterns of chromosome pairing and recombination in Brassica napus crosses.*Genome*. 1997;40(4):496-504."
+- 
+  citation: "**Parkin IAP**, Lydiate DJ. Conserved patterns of chromosome pairing and recombination in Brassica napus crosses.*Genome*. 1997;40(4):496-504."
   date: 19970801
-  image: '/static/img/pub/Isobel_pub_4.png'
-  pdf: '/static/pdf/4.Parkin-1997-Conserved patterns of chromosome p.pdf'
+  image: /static/img/pub/Isobel_pub_4.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/4.Parkin-1997-Conserved patterns of chromosome p.pdf"
   pmid: 18464842
-##1996
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Bohuon EJ, Keith DJ, **Parkin IAP**, Sharpe AG, Lydiate DJ. Alignment of the conserved C genomes of Brassica oleracea and Brassica napus.*Theoretical and applied genetics *. 1996;93(5-6):833-9."
+- 
+  citation: "Bohuon EJ, Keith DJ, **Parkin IAP**, Sharpe AG, Lydiate DJ. Alignment of the conserved C genomes of Brassica oleracea and Brassica napus.*Theoretical and applied genetics *. 1996;93(5-6):833-9."
   date: 19961001
-  image: '/static/img/pub/Isobel_pub_3.png'
-  pdf: '/static/pdf/3.Bohuon-1996-Alignment of the conserved C genom.pdf'
+  image: /static/img/pub/Isobel_pub_3.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/3.Bohuon-1996-Alignment of the conserved C genom.pdf"
   pmid: 24162415
-##1995
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "**Parkin IAP**, Sharpe AG, Keith DJ, Lydiate DJ. Identification of the A and C genomes of amphidiploid Brassica napus (oilseed rape).*Genome*. 1995;38(6):1122-31."
+- 
+  citation: "**Parkin IAP**, Sharpe AG, Keith DJ, Lydiate DJ. Identification of the A and C genomes of amphidiploid Brassica napus (oilseed rape).*Genome*. 1995;38(6):1122-31."
   date: 19951201
-  image: '/static/img/pub/Isobel_pub_2.png'
-  pdf: '/static/pdf/2.Parkin-1995-Identification of the A and C geno.pdf'
+  image: /static/img/pub/Isobel_pub_2.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/2.Parkin-1995-Identification of the A and C geno.pdf"
   pmid: 18470236
-  
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  
-- citation: "Sharpe AG, **Parkin IAP**, Keith DJ, Lydiate DJ. Frequent nonreciprocal translocations in the amphidiploid genome of oilseed rape (Brassica napus).*Genome*. 1995;38(6):1112-21."
+- 
+  citation: "Sharpe AG, **Parkin IAP**, Keith DJ, Lydiate DJ. Frequent nonreciprocal translocations in the amphidiploid genome of oilseed rape (Brassica napus).*Genome*. 1995;38(6):1112-21."
   date: 19951201
-  image: '/static/img/pub/Isobel_pub_1.png'
-  pdf: '/static/pdf/1.Sharpe-1995-Frequent nonreciprocal translocati.pdf'
+  image: /static/img/pub/Isobel_pub_1.png
+  links: 
+    - 
+      name: "For Supplemental materials"
+      url: ""
+  pdf: "/static/pdf/1.Sharpe-1995-Frequent nonreciprocal translocati.pdf"
   pmid: 18470235
-    
-  links:
-    - name: "For Supplemental materials"
-      url: ''
-  

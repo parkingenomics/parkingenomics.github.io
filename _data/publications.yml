@@ -24,13 +24,22 @@
 - citation: "Chang A, Lamara M, Wei Y, Hu H, **Parkin IAP**, Gossen BD, Peng G, Yu F. Clubroot resistance gene Rcr6 in Brassica nigra resides in a genomic region homologous to chromosome A08 in B.rapa.*BMC plant biology*. 2019;19(1):224."
   date: 20190531
   image: '/static/img/pub/Isobel_pub_61.png'
-  pdf: '/static/pdf/pub_61.pdf'
+  pdf: '/static/pdf/61.Chang-2019-Clubroot resistance gene Rcr6 in Br.pdf'
   pmid: 31142280
+  
+  links:
+    - name: "For Supplemental materials"
+      url: ''
+  
 - citation: "Cram D, Kulkarni M, Buchwaldt M, Rajagopalan N, Bhowmik P, Rozwadowski K, **Parkin IAP**, Sharpe AG, Kagale S. WheatCRISPR: a web-based guide RNA design tool for CRISPR/Cas9-mediated genome editing in wheat.*BMC plant biology*. 2019;19(1):474."
   date: 20191107
   image: '/static/img/pub/Isobel_pub_60.png'
-  pdf: '/static/pdf/pub_60.pdf'
+  pdf: '/static/pdf/60.Cram-2019-WheatCRISPR_ a web-based guide RNA d.pdf'
   pmid: 31694550
+  
+  links:
+    - name: "For Supplemental materials"
+      url: ''
 - citation: "Desta ZA, Kolano B, Shamim Z, Armstrong SJ, Rewers M, Sliwinska E, Kushwaha SK, **Parkin IAP**, Ortiz R, de Koning DJ. Field cress genome mapping: Integrating linkage and comparative maps with cytogenetic analysis for rDNA carrying chromosomes.*Scientific reports*. 2019;9(1):17028."
   date: 20191121
   image: '/static/img/pub/Isobel_pub_59.png'
